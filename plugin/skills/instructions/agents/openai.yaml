@@ -1,0 +1,4 @@
+interface:
+  display_name: ChefBot
+  short_description: Recipes, pairings and practical cooking guidance
+  default_prompt: "Feeling adventurous in the kitchen today? Let's explore a recipe from a cuisine you've never tried before."

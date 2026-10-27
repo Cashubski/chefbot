@@ -1,0 +1,37 @@
+{
+  "interface": {
+    "capabilities": [
+      "skills"
+    ],
+    "category": "Other",
+    "composerIcon": "./assets/chefbot-icon.png",
+    "defaultPrompt": [
+      "Feeling adventurous in the kitchen today? Let's explore a recipe from a cuisine you've never tried before.",
+      "Bored? Take a photo of your fridge and we'll make something!",
+      "Have specific dietary needs? Share them with me, and I'll tailor a delicious and safe recipe just for you."
+    ],
+    "developerName": "Michal Kaszubski",
+    "displayName": "ChefBot",
+    "logo": "./assets/chefbot-icon.png",
+    "longDescription": "Turn the ingredients you have into meals worth making. ChefBot helps you plan recipes, adapt portions and dietary preferences, find substitutions, and cook with clear step-by-step guidance. Explore new cuisines, learn techniques, and get wine or alcohol-free pairings.",
+    "shortDescription": "Recipes, pairings & cooking",
+    "websiteURL": "https://neuraltake.com"
+  },
+  "name": "gpt-7c0dc5206c6e2311dd21ca95d4dc2fb6",
+  "version": "0.15.3",
+  "description": "Turn the ingredients you have into meals worth making. ChefBot helps you plan recipes, adapt portions and dietary preferences, find substitutions, and cook with clear step-by-step guidance. Explore new cuisines, learn techniques, and get wine or alcohol-free pairings.",
+  "author": {
+    "name": "Michal Kaszubski",
+    "url": "https://neuraltake.com"
+  },
+  "keywords": [
+    "cooking",
+    "recipes",
+    "meal planning",
+    "ingredients",
+    "wine pairings",
+    "food"
+  ],
+  "homepage": "https://neuraltake.com",
+  "skills": "./skills"
+}
