@@ -1,9 +1,9 @@
 ---
 name: entertaining
-description: Plan food and drink for a group. Use when the user is hosting a dinner party, feeding a crowd, cooking Christmas, Thanksgiving, Eid, Diwali, Passover or another festive dinner, planning a buffet, a BBQ for 20, a kids' party, a picnic or canapés, asks how much food or drink to buy for N people, what to serve for a special occasion, or what can be made ahead. Works out quantities per head and totals to buy with scripts/party_quantities.py, and builds the menu and make-ahead plan from references/portions.md.
+description: Plan the menu, quantities and make-ahead schedule for a group. Use when the user is hosting a dinner party, feeding a crowd, cooking Christmas, Thanksgiving, Eid, Diwali, Passover or another festive dinner, planning a buffet, a BBQ for 20, a kids' party, a picnic or canapés, asks how much food or drink to buy for N people, what to serve for a special occasion, or what can be made ahead. Works out per-head quantities and totals with scripts/party_quantities.py where a Python tool exists, from references/portions.md. For the minute-by-minute timing of the cooking itself see cook-along.
 metadata:
   publisher: NeuralTake
-  version: "0.17.0"
+  version: "0.17.1"
 ---
 
 # Entertaining: menus, quantities and make-ahead

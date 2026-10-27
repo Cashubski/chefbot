@@ -1,9 +1,9 @@
 ---
 name: nutrition-estimate
-description: Estimate calories and nutrients per serving for a recipe. Use when the user asks how many calories a dish has, for macros, protein, fat, carbs, sugar, fibre or salt, whether a recipe is "healthy", for a nutrition label or per-serving figures, to compare two recipes, or to adjust a recipe towards a calorie or protein target. Computes from ingredient weights with scripts/nutrition.py and references/nutrition-table.csv when a Python tool is available, otherwise estimates by hand from the same table, and always labels the result an estimate.
+description: Estimate calories and nutrients per serving for a recipe. Use when the user asks how many calories a dish has, for macros, protein, fat, carbs, sugar, fibre or salt, whether a recipe is "healthy", for a nutrition label or per-serving figures, to compare two recipes, or to adjust a recipe towards a calorie or protein target. Computes from ingredient weights with scripts/nutrition.py and references/nutrition-table.csv where a Python tool exists, otherwise estimates by hand from the same table, and always labels the result an estimate. For excluding an allergen or following a diet see dietary-adaptation.
 metadata:
   publisher: NeuralTake
-  version: "0.17.0"
+  version: "0.17.1"
 ---
 
 # Nutrition estimate

@@ -1,9 +1,9 @@
 ---
 name: substitutions
-description: Replace a missing or unwanted ingredient without ruining the dish. Use when the user says they are out of something, asks "can I use X instead of Y", wants to avoid an ingredient for taste or cost, or needs an equivalent for an ingredient they cannot find locally. Gives the swap, the ratio and what changes in the result, using references/substitutions.md.
+description: Replace a missing or unwanted ingredient without ruining the dish. Use when the user says they are out of something, asks "can I use X instead of Y", wants to avoid an ingredient for taste or cost, or needs an equivalent for an ingredient they cannot find locally. Gives the swap, the ratio and what changes in the result, from references/substitutions.md. For ideas on what goes with an ingredient when improvising see flavour-pairings; for allergen exclusions see dietary-adaptation.
 metadata:
   publisher: NeuralTake
-  version: "0.17.0"
+  version: "0.17.1"
 ---
 
 # Substitutions

@@ -1,9 +1,9 @@
 ---
 name: food-safety
-description: Safe cooking temperatures, storage times, defrosting, cooling, reheating and when to throw food away. Use when the user asks whether something is cooked through, safe to eat, how long leftovers keep, how to defrost or reheat, how to store a cooked dish, about rice, chicken, pork, eggs, shellfish or stuffing safety, about food left out overnight, or about feeding someone vulnerable. Gives the figure and the rule plainly, from references/temperatures-and-storage.md, and errs on the side of caution.
+description: Safe cooking temperatures, storage times, defrosting, cooling, reheating and when to throw food away. Use when the user asks whether something is cooked through or safe to eat, how long leftovers keep, how to defrost or reheat, how to store a cooked dish, about rice, chicken, pork, eggs, shellfish or stuffing safety, about food left out overnight, or about feeding someone vulnerable. Gives the figure and the rule plainly from references/temperatures-and-storage.md and errs on the side of caution. For reviewing a whole recipe's method and quantities see recipe-doctor.
 metadata:
   publisher: NeuralTake
-  version: "0.17.0"
+  version: "0.17.1"
 ---
 
 # Food safety

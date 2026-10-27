@@ -1,9 +1,9 @@
 ---
 name: baking-formulas
-description: Bread and pastry by formula. Use when the user asks about hydration, baker's percentages, how much yeast or salt for a given flour weight, wants to scale a dough to fit a tin or make a set weight of dough, asks for a sourdough or pizza dough formula, or wants to build a cake, pastry, batter, custard, vinaigrette or brine from a classic ratio instead of a recipe. Computes the weights deterministically with scripts/bakers_percent.py and explains what each percentage does.
+description: Build bread, pastry, batters, custards and dressings from baker's percentages and classic ratios. Use when the user asks about hydration, baker's percentages, how much yeast, salt or starter for a given flour weight, how much dough a tin or a pizza needs, a sourdough or pizza dough formula, whether a dough recipe's hydration is high, or wants to make something from a ratio rather than a recipe. Computes the weights with scripts/bakers_percent.py where a Python tool exists and explains what each percentage does. For changing the servings or units of an existing recipe see recipe-scaling.
 metadata:
   publisher: NeuralTake
-  version: "0.17.0"
+  version: "0.17.1"
 ---
 
 # Baking formulas and ratios

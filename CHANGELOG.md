@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.17.1 — 2026-10-27
+
+- Consistency pass over all eighteen skills: every description now states a boundary with its neighbouring skill (scaling vs baking formulas, tonight vs the week, timing vs quantities, exclusions vs figures, replace vs improvise, one safety question vs a whole-recipe review); bodies share one Steps / Rules / Output skeleton; the core skill no longer uses selection-steering wording.
+- tests/EVALUATION.md: a 90-prompt manual evaluation sheet (five test types per skill) to run in ChatGPT after upload.
+- Website moved into the repository (site/build_site.py): showcase of three computed answers, FAQ, changelog page, Open Graph image, and the plugin directory link.
+
 ## 0.17.0 — 2026-10-27
 
 Seven new skills and three new scripts, still skills-only.

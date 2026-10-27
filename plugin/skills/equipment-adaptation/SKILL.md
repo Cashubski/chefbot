@@ -3,7 +3,7 @@ name: equipment-adaptation
 description: Convert a recipe to the equipment the user actually has. Use when the user mentions an air fryer, slow cooker, pressure cooker or Instant Pot, microwave only, no oven, hob only, induction, a barbecue, a halogen or combi oven, a tiny or student kitchen, camping, a caravan or a single hotplate, or asks "can I make this in the …", or how to convert times and temperatures between appliances. Gives the converted method with the numbers from references/conversions.md and says what will differ in the result.
 metadata:
   publisher: NeuralTake
-  version: "0.17.0"
+  version: "0.17.1"
 ---
 
 # Equipment adaptation

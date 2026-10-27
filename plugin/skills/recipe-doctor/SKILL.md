@@ -1,9 +1,9 @@
 ---
 name: recipe-doctor
-description: Review and fix a recipe the user already has. Use when the user pastes or describes a recipe and asks to check it, improve it, fix it, simplify it, make it less bland, make it taste "restaurant quality", work out why it failed, adapt an old family recipe, or wants an opinion on a recipe found online or in a book. Runs the checklist in references/checklist.md (ratios, salt, method order, timings, temperatures, doneness cues, equipment, allergens, servings, vague steps, safety), then returns a verdict, specific numbered fixes with reasons, and the corrected recipe in the ChefBot house layout.
+description: Review and fix a recipe the user already has. Use when the user pastes or describes a recipe and asks to check it, improve it, fix it, simplify it, make it less bland or "restaurant quality", work out why it failed, adapt an old family recipe, or wants an opinion on a recipe found online or in a book. Runs the checklist in references/checklist.md (ratios, salt, method order, timings, temperatures, doneness cues, equipment, allergens, servings, vague steps, safety), then returns a verdict, numbered fixes with reasons, and the corrected recipe in the house layout. For a single is-it-safe or how-long question see food-safety; for learning a technique see cooking-techniques.
 metadata:
   publisher: NeuralTake
-  version: "0.17.0"
+  version: "0.17.1"
 ---
 
 # Recipe doctor

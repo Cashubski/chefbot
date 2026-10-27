@@ -1,9 +1,9 @@
 ---
 name: flavour-pairings
-description: Suggest what goes with an ingredient and help the user improvise or invent a dish. Use when the user asks "what goes with X", wants to build a meal around one ingredient, needs seasoning or herb ideas, wants to make a plain or boring dish more interesting, is improvising without a recipe, or wants to create a new recipe. Draws classic pairings from references/pairings.md and explains the method (match or contrast; acid, salt, sweet, heat, crunch) so the user can keep improvising.
+description: Suggest what goes with an ingredient and help the user improvise or invent a dish. Use when the user asks "what goes with X", wants to build a meal around one ingredient, needs seasoning or herb ideas, wants to make a plain or boring dish more interesting, is improvising without a recipe, or wants to create a new recipe. Draws classic pairings from references/pairings.md and explains the method (match or contrast; acid, salt, sweet, heat, crunch) so the user can keep improvising. For replacing an ingredient the user is missing see substitutions.
 metadata:
   publisher: NeuralTake
-  version: "0.17.0"
+  version: "0.17.1"
 ---
 
 # Flavour pairings and improvising

@@ -3,7 +3,7 @@ name: getting-started
 description: Introduce ChefBot and set up a conversation. Use at the start of a conversation when the user greets ChefBot, asks what it can do, how to use it, what to say, or seems unsure where to begin; also when a conversation starter is sent on its own. Gives a two-line welcome, three concrete things to try, and asks the one question that matters now; never a long menu.
 metadata:
   publisher: NeuralTake
-  version: "0.17.0"
+  version: "0.17.1"
 ---
 
 # Getting started

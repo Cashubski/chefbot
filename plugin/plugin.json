@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "gpt-7c0dc5206c6e2311dd21ca95d4dc2fb6",
-  "version": "0.17.0",
+  "version": "0.17.1",
   "description": "Turn the ingredients you have into meals worth making. ChefBot works from a list or a photo of your fridge, writes one practical recipe with exact quantities, oven temperatures for fan and conventional ovens, timings and the signs that tell you something is done, then walks you through it step by step. It scales recipes and converts units deterministically, plans a week of meals that reuse ingredients and merges them into one shopping list, adapts dishes for allergies and diets with the label checks that matter, suggests substitutions when something is missing, pairs wine, beer and alcohol-free drinks, answers food-safety questions with the actual temperatures and storage times, estimates nutrition per serving from the quantities, builds bread and pastry from baker's percentages and classic ratios, converts recipes for air fryers, slow cookers and pressure cookers, suggests what goes with an ingredient, works out quantities for a crowd, checks and improves recipes you paste in, writes printable recipe cards, and teaches techniques and cuisines. Made by NeuralTake, London. ChefBot has no accounts, saves nothing and runs entirely inside your ChatGPT conversation.",
   "author": {
     "name": "Michal Kaszubski",
