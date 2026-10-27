@@ -1,0 +1,296 @@
+name,kcal,protein_g,fat_g,saturates_g,carbs_g,sugars_g,fibre_g,salt_g,category
+plain flour,341,9.4,1.3,0.2,73,0.7,3.1,0.01,flour
+strong white bread flour,344,12,1.4,0.2,70,0.9,3,0.01,flour
+self-raising flour,330,9,1.2,0.2,70,0.8,3,1.1,flour
+wholemeal flour,330,13,2.2,0.3,62,2,10,0.01,flour
+rye flour,335,9,1.7,0.2,69,1,12,0.01,flour
+spelt flour,338,15,2.4,0.4,64,1,8,0.01,flour
+cornflour,355,0.3,0.1,0,91,0,0.9,0.01,flour
+gram flour,387,22,7,0.7,58,10,11,0.01,flour
+rice flour,366,6,1.4,0.4,80,0.1,2.4,0.01,flour
+ground almonds,612,21,56,4.3,7,4,11,0.01,nuts
+semolina,360,13,1,0.2,73,0,4,0.01,flour
+polenta,362,8,1.7,0.2,77,0.6,4,0.01,grain
+oats,379,13,7,1.2,66,1,10,0.01,grain
+breadcrumbs,395,13,5,0.9,72,6,5,1.1,bread
+white bread,265,9,3,0.6,49,5,2.7,1,bread
+wholemeal bread,250,11,3.5,0.7,42,4,7,1,bread
+sourdough,270,9,1.5,0.3,54,2,2.5,1.2,bread
+pitta,275,9,1.5,0.2,55,1,2.5,1.1,bread
+tortilla wrap,300,8,7,3,52,3,3,1.2,bread
+naan,290,9,8,2,45,3,2,1.1,bread
+croissant,406,8,21,13,46,10,2.6,0.9,bread
+caster sugar,400,0,0,0,100,100,0,0,sugar
+granulated sugar,400,0,0,0,100,100,0,0,sugar
+brown sugar,380,0,0,0,98,97,0,0.07,sugar
+icing sugar,399,0,0,0,100,100,0,0,sugar
+honey,304,0.3,0,0,82,82,0,0.01,sugar
+maple syrup,260,0,0,0,67,60,0,0.03,sugar
+golden syrup,300,0.3,0,0,79,79,0,0.1,sugar
+treacle,290,1.2,0,0,67,67,0,0.1,sugar
+jam,260,0.5,0,0,65,60,1,0.02,sugar
+butter,717,0.9,81,51,0.1,0.1,0,1.7,fat
+unsalted butter,717,0.9,81,51,0.1,0.1,0,0.02,fat
+ghee,900,0,100,62,0,0,0,0,fat
+margarine,717,0.2,80,20,0.7,0,0,1.5,fat
+lard,900,0,100,39,0,0,0,0,fat
+olive oil,884,0,100,14,0,0,0,0,fat
+vegetable oil,884,0,100,8,0,0,0,0,fat
+sunflower oil,884,0,100,10,0,0,0,0,fat
+rapeseed oil,884,0,100,7,0,0,0,0,fat
+coconut oil,892,0,99,87,0,0,0,0,fat
+sesame oil,884,0,100,14,0,0,0,0,fat
+whole milk,64,3.4,3.6,2.3,4.7,4.7,0,0.1,dairy
+semi-skimmed milk,47,3.5,1.7,1.1,4.8,4.8,0,0.1,dairy
+skimmed milk,35,3.5,0.1,0.1,5,5,0,0.1,dairy
+oat milk,45,1,1.5,0.2,7,4,0.8,0.1,dairy
+soya milk,40,3,1.8,0.3,2.5,2.5,0.5,0.1,dairy
+almond milk,15,0.5,1.2,0.1,0.3,0.1,0.3,0.1,dairy
+coconut milk,180,1.8,18,16,3,3,0,0.05,dairy
+double cream,450,1.7,48,30,2.7,2.7,0,0.1,dairy
+single cream,190,2.6,18,11,3.6,3.6,0,0.1,dairy
+whipping cream,340,2.2,36,23,3,3,0,0.1,dairy
+sour cream,195,2.5,19,12,3.5,3.5,0,0.1,dairy
+creme fraiche,290,2.5,30,20,2.5,2.5,0,0.1,dairy
+greek yoghurt,97,9,5,3.5,3.8,3.8,0,0.1,dairy
+natural yoghurt,61,4,3,2,5,5,0,0.1,dairy
+cheddar,410,25,35,21,0.1,0.1,0,1.8,dairy
+parmesan,415,32,30,20,0,0,0,1.6,dairy
+mozzarella,280,18,22,14,2,1,0,0.5,dairy
+feta,270,15,22,15,1.5,1.5,0,2.7,dairy
+halloumi,320,22,26,17,2,2,0,2.8,dairy
+cream cheese,340,6,34,21,3,3,0,0.9,dairy
+mascarpone,430,4,44,30,4,4,0,0.1,dairy
+ricotta,150,9,11,7,3,1,0,0.3,dairy
+cottage cheese,100,12,4,2.5,3,3,0,0.8,dairy
+goat cheese,330,20,27,19,1,1,0,1.5,dairy
+blue cheese,350,21,29,19,2,0.5,0,3.5,dairy
+paneer,320,20,26,16,1.5,1.5,0,0.1,dairy
+egg,143,13,10,3.1,0.7,0.7,0,0.4,egg
+egg white,52,11,0.2,0,0.7,0.7,0,0.4,egg
+egg yolk,322,16,27,9.6,3.6,0.6,0,0.1,egg
+chicken breast,120,23,2.6,0.6,0,0,0,0.2,meat
+chicken thigh,180,17,12,3.5,0,0,0,0.2,meat
+chicken thigh skinless,145,19,7,2,0,0,0,0.2,meat
+whole chicken,215,18,15,4.3,0,0,0,0.2,meat
+chicken wings,220,18,16,4.5,0,0,0,0.2,meat
+turkey breast,110,24,1,0.3,0,0,0,0.2,meat
+turkey mince,150,19,8,2,0,0,0,0.2,meat
+duck breast,200,19,13,4,0,0,0,0.2,meat
+beef mince,250,19,19,8,0,0,0,0.2,meat
+lean beef mince,170,21,10,4,0,0,0,0.2,meat
+beef steak,200,22,12,5,0,0,0,0.2,meat
+beef brisket,250,18,20,8,0,0,0,0.2,meat
+stewing beef,175,21,10,4,0,0,0,0.2,meat
+pork mince,260,17,21,8,0,0,0,0.2,meat
+pork loin,150,22,6,2,0,0,0,0.2,meat
+pork belly,520,9,53,19,0,0,0,0.2,meat
+pork shoulder,240,17,19,7,0,0,0,0.2,meat
+sausage,300,13,25,9,8,1,1,2,meat
+bacon,270,16,22,8,0,0,0,3.5,meat
+pancetta,350,15,32,12,0,0,0,3.5,meat
+ham,110,18,3,1,1,1,0,2.5,meat
+chorizo,450,24,38,14,2,1,0,3.5,meat
+lamb mince,280,17,23,11,0,0,0,0.2,meat
+lamb leg,200,20,13,6,0,0,0,0.2,meat
+lamb shoulder,300,17,26,12,0,0,0,0.2,meat
+lamb chops,290,18,24,11,0,0,0,0.2,meat
+venison,120,22,3,1,0,0,0,0.2,meat
+salmon,208,20,13,3,0,0,0,0.1,fish
+smoked salmon,180,23,10,2,0,0,0,3.5,fish
+cod,82,18,0.7,0.1,0,0,0,0.2,fish
+haddock,80,18,0.6,0.1,0,0,0,0.3,fish
+tuna,130,28,1.5,0.4,0,0,0,0.1,fish
+tinned tuna,115,26,1,0.3,0,0,0,0.9,fish
+mackerel,205,19,14,3,0,0,0,0.2,fish
+sardines,210,25,11,3,0,0,0,0.9,fish
+anchovies,210,29,10,2,0,0,0,10,fish
+sea bass,100,19,2.5,0.6,0,0,0,0.2,fish
+trout,140,20,6,1.5,0,0,0,0.1,fish
+prawns,85,20,0.5,0.1,0,0,0,1,fish
+squid,90,16,1.5,0.4,3,0,0,0.1,fish
+mussels,85,12,2,0.4,3,0,0,0.7,fish
+crab,100,19,2,0.3,0,0,0,1,fish
+scallops,90,17,0.8,0.2,3,0,0,1,fish
+chickpeas dried,360,19,6,0.6,60,11,12,0.06,pulse
+chickpeas tinned,120,7,2.5,0.3,16,0.5,6,0.4,pulse
+red lentils dried,350,24,1.5,0.2,60,2,11,0.01,pulse
+red lentils cooked,115,9,0.4,0.1,20,0.5,4,0.01,pulse
+green lentils cooked,115,9,0.4,0.1,20,0.5,5,0.01,pulse
+puy lentils cooked,120,9,0.5,0.1,20,0.5,5,0.01,pulse
+kidney beans tinned,105,8,0.5,0.1,17,1,7,0.6,pulse
+black beans tinned,110,8,0.5,0.1,18,0.5,7,0.5,pulse
+butter beans tinned,95,6,0.5,0.1,15,0.8,5,0.5,pulse
+cannellini beans tinned,100,7,0.5,0.1,16,0.5,6,0.5,pulse
+baked beans,85,5,0.5,0.1,15,5,4,0.6,pulse
+dried beans,340,22,1.5,0.3,60,3,15,0.01,pulse
+tofu,120,12,7,1,2,0.5,1,0.02,pulse
+tempeh,190,19,11,2.5,8,0,6,0.02,pulse
+edamame,120,11,5,0.6,9,2,5,0.02,pulse
+peas,80,6,1,0.2,11,5,5,0.01,vegetable
+frozen peas,75,5.5,1,0.2,10,4,5,0.01,vegetable
+white rice dry,360,7,0.6,0.2,79,0.1,1.3,0.01,grain
+white rice cooked,130,2.7,0.3,0.1,28,0.1,0.4,0.01,grain
+basmati rice dry,350,8,0.6,0.2,78,0.1,1,0.01,grain
+brown rice dry,360,7.5,2.7,0.5,76,0.7,3.5,0.01,grain
+brown rice cooked,120,2.6,1,0.2,25,0.3,1.6,0.01,grain
+risotto rice,350,7,0.5,0.1,78,0.1,1,0.01,grain
+pasta dry,350,12,1.5,0.3,71,3,3,0.01,grain
+pasta cooked,160,5.8,0.9,0.2,31,0.6,1.8,0.01,grain
+wholewheat pasta dry,350,13,2.5,0.5,66,3,9,0.01,grain
+egg noodles dry,380,14,4.4,1.2,71,2,3,0.5,grain
+rice noodles dry,365,6,0.6,0.1,80,0.1,1.6,0.1,grain
+couscous dry,375,13,0.6,0.1,77,0.1,5,0.02,grain
+couscous cooked,112,3.8,0.2,0,23,0.1,1.4,0.01,grain
+bulgur dry,340,12,1.3,0.2,76,0.4,18,0.04,grain
+quinoa dry,370,14,6,0.7,64,0,7,0.01,grain
+quinoa cooked,120,4.4,1.9,0.2,21,0.9,2.8,0.01,grain
+pearl barley dry,350,10,1.2,0.2,78,0.8,16,0.03,grain
+gnocchi,150,3,0.5,0.1,33,0.5,2,0.8,grain
+almonds,580,21,50,3.8,22,4,12,0.01,nuts
+walnuts,650,15,65,6,14,2.6,7,0.01,nuts
+cashews,550,18,44,8,30,6,3,0.02,nuts
+peanuts,570,26,49,7,16,4,8,0.02,nuts
+peanut butter,590,25,50,10,20,9,6,1,nuts
+hazelnuts,630,15,61,4.5,17,4.3,10,0.01,nuts
+pistachios,560,20,45,5.9,28,8,10,0.01,nuts
+pecans,690,9,72,6,14,4,10,0.01,nuts
+pine nuts,670,14,68,5,13,3.6,4,0.01,nuts
+sesame seeds,570,18,50,7,23,0.3,12,0.03,nuts
+tahini,595,17,54,7.5,21,0.5,9,0.1,nuts
+sunflower seeds,580,21,51,4.5,20,2.6,9,0.02,nuts
+pumpkin seeds,560,30,49,8.7,11,1.4,6,0.02,nuts
+chia seeds,486,17,31,3.3,42,0,34,0.04,nuts
+flaxseed,534,18,42,3.7,29,1.6,27,0.08,nuts
+desiccated coconut,660,6,65,57,24,7,16,0.09,nuts
+onion,40,1.1,0.1,0,9,4.2,1.7,0.01,vegetable
+red onion,40,1.1,0.1,0,9,4.2,1.7,0.01,vegetable
+shallot,72,2.5,0.1,0,17,8,3,0.03,vegetable
+spring onion,32,1.8,0.2,0,7,2.3,2.6,0.04,vegetable
+garlic,149,6.4,0.5,0.1,33,1,2.1,0.04,vegetable
+ginger,80,1.8,0.8,0.2,18,1.7,2,0.03,vegetable
+leek,61,1.5,0.3,0,14,3.9,1.8,0.05,vegetable
+carrot,41,0.9,0.2,0,10,4.7,2.8,0.17,vegetable
+celery,16,0.7,0.2,0,3,1.3,1.6,0.2,vegetable
+potato,77,2,0.1,0,17,0.8,2.2,0.02,vegetable
+sweet potato,86,1.6,0.1,0,20,4.2,3,0.14,vegetable
+parsnip,75,1.2,0.3,0,18,4.8,4.9,0.03,vegetable
+beetroot,43,1.6,0.2,0,10,6.8,2.8,0.2,vegetable
+swede,38,1.1,0.2,0,9,4.5,2.3,0.05,vegetable
+turnip,28,0.9,0.1,0,6,3.8,1.8,0.17,vegetable
+tomato,18,0.9,0.2,0,3.9,2.6,1.2,0.01,vegetable
+cherry tomatoes,18,0.9,0.2,0,3.9,2.6,1.2,0.01,vegetable
+chopped tomatoes,22,1,0.1,0,4,3,1,0.05,vegetable
+passata,30,1.4,0.2,0,5,4,1,0.1,vegetable
+tomato puree,82,4.3,0.5,0.1,19,12,4,0.5,vegetable
+sun-dried tomatoes,258,14,3,0.4,56,38,12,5,vegetable
+bell pepper,31,1,0.3,0,6,4.2,2.1,0.01,vegetable
+red pepper,31,1,0.3,0,6,4.2,2.1,0.01,vegetable
+chilli,40,1.9,0.4,0,9,5.3,1.5,0.02,vegetable
+aubergine,25,1,0.2,0,6,3.5,3,0.01,vegetable
+courgette,17,1.2,0.3,0.1,3.1,2.5,1,0.02,vegetable
+cucumber,15,0.7,0.1,0,3.6,1.7,0.5,0.01,vegetable
+mushrooms,22,3.1,0.3,0,3.3,2,1,0.01,vegetable
+spinach,23,2.9,0.4,0.1,3.6,0.4,2.2,0.2,vegetable
+kale,49,4.3,0.9,0.1,9,2.3,3.6,0.1,vegetable
+cabbage,25,1.3,0.1,0,5.8,3.2,2.5,0.05,vegetable
+red cabbage,31,1.4,0.2,0,7,3.8,2.1,0.07,vegetable
+broccoli,34,2.8,0.4,0,6.6,1.7,2.6,0.08,vegetable
+cauliflower,25,1.9,0.3,0.1,5,1.9,2,0.08,vegetable
+brussels sprouts,43,3.4,0.3,0.1,9,2.2,3.8,0.06,vegetable
+green beans,31,1.8,0.2,0,7,3.3,2.7,0.02,vegetable
+asparagus,20,2.2,0.1,0,3.9,1.9,2.1,0.01,vegetable
+lettuce,15,1.4,0.2,0,2.9,0.8,1.3,0.07,vegetable
+rocket,25,2.6,0.7,0.1,3.7,2,1.6,0.07,vegetable
+sweetcorn,86,3.3,1.4,0.2,19,6.3,2.7,0.04,vegetable
+tinned sweetcorn,80,2.5,1,0.2,15,4,2,0.3,vegetable
+butternut squash,45,1,0.1,0,12,2.2,2,0.01,vegetable
+pumpkin,26,1,0.1,0.1,6.5,2.8,0.5,0.01,vegetable
+fennel,31,1.2,0.2,0,7,3.9,3.1,0.13,vegetable
+avocado,160,2,15,2.1,8.5,0.7,6.7,0.02,vegetable
+olives,145,1,15,2,4,0,3,3.5,vegetable
+artichoke,47,3.3,0.2,0,11,1,5.4,0.24,vegetable
+pak choi,13,1.5,0.2,0,2.2,1.2,1,0.16,vegetable
+apple,52,0.3,0.2,0,14,10,2.4,0,fruit
+pear,57,0.4,0.1,0,15,10,3.1,0,fruit
+banana,89,1.1,0.3,0.1,23,12,2.6,0,fruit
+orange,47,0.9,0.1,0,12,9,2.4,0,fruit
+lemon,29,1.1,0.3,0,9,2.5,2.8,0.01,fruit
+lemon juice,22,0.4,0.2,0,7,2.5,0.3,0,fruit
+lime,30,0.7,0.2,0,11,1.7,2.8,0.01,fruit
+lime juice,25,0.4,0.1,0,8,1.7,0.4,0,fruit
+strawberries,32,0.7,0.3,0,7.7,4.9,2,0,fruit
+raspberries,52,1.2,0.7,0,12,4.4,6.5,0,fruit
+blueberries,57,0.7,0.3,0,14,10,2.4,0,fruit
+blackberries,43,1.4,0.5,0,10,4.9,5.3,0,fruit
+cherries,63,1.1,0.2,0,16,13,2.1,0,fruit
+grapes,69,0.7,0.2,0.1,18,15,0.9,0,fruit
+mango,60,0.8,0.4,0.1,15,14,1.6,0,fruit
+pineapple,50,0.5,0.1,0,13,10,1.4,0,fruit
+peach,39,0.9,0.3,0,10,8.4,1.5,0,fruit
+plum,46,0.7,0.3,0,11,10,1.4,0,fruit
+melon,34,0.8,0.2,0,8,8,0.9,0.04,fruit
+watermelon,30,0.6,0.2,0,7.6,6.2,0.4,0,fruit
+pomegranate,83,1.7,1.2,0.1,19,14,4,0.01,fruit
+kiwi,61,1.1,0.5,0,15,9,3,0.01,fruit
+raisins,299,3.1,0.5,0.1,79,59,3.7,0.03,fruit
+sultanas,300,2.7,0.4,0.1,79,65,2,0.03,fruit
+dried apricots,241,3.4,0.5,0,63,53,7.3,0.03,fruit
+dates,282,2.5,0.4,0,75,63,8,0.01,fruit
+dried cranberries,308,0.2,1.1,0.1,82,65,5.3,0.01,fruit
+soy sauce,53,8,0.6,0.1,5,0.4,0.8,14,condiment
+light soy sauce,55,8,0,0,6,1,0,15,condiment
+dark soy sauce,80,7,0,0,13,5,0,11,condiment
+fish sauce,35,5,0,0,4,4,0,25,condiment
+oyster sauce,110,2,0.3,0,24,16,0,8,condiment
+hoisin sauce,220,3,3.4,0.6,44,30,3,4,condiment
+sriracha,93,2,1,0,19,15,2,5,condiment
+ketchup,100,1,0.1,0,24,22,0.3,2,condiment
+mayonnaise,680,1,75,6,1,1,0,1.5,condiment
+dijon mustard,150,7,10,0.6,6,3,3,6,condiment
+wholegrain mustard,160,7,10,0.7,8,4,3,5,condiment
+worcestershire sauce,78,0,0,0,19,10,0,3,condiment
+vinegar,20,0,0,0,1,1,0,0,condiment
+balsamic vinegar,88,0.5,0,0,17,15,0,0.06,condiment
+harissa,110,3,7,1,9,4,4,4,condiment
+pesto,440,5,45,7,4,2,2,2,condiment
+curry paste,250,3,22,3,10,5,3,6,condiment
+miso,200,12,6,1,26,6,5,13,condiment
+tamari,60,10,0,0,6,1,0,14,condiment
+chilli sauce,90,1.5,0.5,0,20,16,2,3,condiment
+stock,5,0.5,0.2,0,0.5,0.3,0,0.9,condiment
+stock cube,220,13,10,5,20,5,0,45,condiment
+capers,23,2.4,0.9,0.2,5,0.4,3.2,7.5,condiment
+pickled gherkins,14,0.6,0.2,0,2,1,1.2,2,condiment
+salt,0,0,0,0,0,0,0,100,spice
+black pepper,250,10,3,1,64,0.6,25,0.05,spice
+spice,300,12,10,2,50,3,20,0.1,spice
+dried herbs,270,10,6,2,45,2,30,0.1,spice
+fresh herbs,30,3,0.7,0.1,5,1,3,0.1,spice
+coriander,23,2.1,0.5,0,3.7,0.9,2.8,0.1,spice
+parsley,36,3,0.8,0.1,6.3,0.9,3.3,0.14,spice
+basil,23,3.2,0.6,0,2.7,0.3,1.6,0.01,spice
+mint,44,3.3,0.7,0.2,8,0,8,0.08,spice
+yeast,325,40,8,1,41,0,27,0.1,spice
+baking powder,53,0,0,0,28,0,0,27,spice
+bicarbonate of soda,0,0,0,0,0,0,0,69,spice
+vanilla extract,288,0.1,0.1,0,13,13,0,0.02,spice
+dark chocolate,550,6,35,21,50,38,7,0.02,sweet
+milk chocolate,535,7.6,30,18,59,52,3,0.2,sweet
+white chocolate,540,6,32,19,59,59,0,0.3,sweet
+cocoa powder,230,20,11,6.5,12,1.8,33,0.05,sweet
+chocolate chips,500,5,27,16,60,50,5,0.1,sweet
+digestive biscuits,480,7,21,10,66,16,3,1,sweet
+gelatine,340,85,0,0,0,0,0,0.5,sweet
+red wine,85,0.1,0,0,2.6,0.6,0,0.01,alcohol
+white wine,82,0.1,0,0,2.6,1,0,0.01,alcohol
+beer,43,0.5,0,0,3.6,0,0,0.01,alcohol
+cider,50,0,0,0,5,4,0,0.01,alcohol
+sherry,116,0.2,0,0,1,1,0,0.02,alcohol
+brandy,230,0,0,0,0,0,0,0,alcohol
+rum,230,0,0,0,0,0,0,0,alcohol
+water,0,0,0,0,0,0,0,0,drink
+orange juice,45,0.7,0.2,0,10,8.4,0.2,0,drink
+apple juice,46,0.1,0.1,0,11,10,0.2,0,drink
+coffee,2,0.1,0,0,0,0,0,0,drink
+coconut water,19,0.7,0.2,0.2,3.7,2.6,1.1,0.26,drink

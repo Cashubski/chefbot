@@ -46,7 +46,7 @@
 | Goat's cheese | Sancerre, Sauvignon Blanc | dry rosé | gooseberry or elderflower cordial with soda |
 | Chocolate dessert | Banyuls, ruby port, Recioto | imperial stout | espresso; cherry juice |
 | Fruit dessert, tart | Moscato d'Asti, Sauternes, late-harvest Riesling | fruit lambic | sparkling grape juice; apricot nectar |
-| Creamy dessert, cheesecake | Sauternes, sweet sherry (PX for very rich) | — | vanilla rooibos |
+| Creamy dessert, cheesecake | Sauternes, sweet sherry (PX for very rich) | - | vanilla rooibos |
 | Brunch, eggs | Champagne, Crémant | Bloody Mary | fresh orange with soda; virgin Mary |
 | Picnic, salads | rosé, Vinho Verde | Pimm's, lager | iced tea; elderflower pressé |
 

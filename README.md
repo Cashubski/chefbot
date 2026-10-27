@@ -24,16 +24,23 @@ CHANGELOG.md
 
 | Skill | Trigger | Deterministic help |
 | --- | --- | --- |
+| getting-started | first message, "what can you do" (onboarding skill) | |
 | cooking-assistant | any cooking question; sets the house style | |
-| fridge-to-meal | ingredients or a photo → one recipe | |
+| fridge-to-meal | ingredients or a photo → one recipe; "what can I make" | `dish_match.py` ranks 120+ dishes by what you have; `references/use-it-up.md`, `references/seasonal.md` |
 | recipe-scaling | change servings, convert units | `scale_recipe.py`: rounding rules, sub-linear seasoning, density-based cup conversion, pan and time notes |
+| baking-formulas | hydration, baker's percentages, classic ratios, dough for a tin | `bakers_percent.py`; `references/ratios.md` |
 | meal-planning | several days, batch cooking, shopping list | `shopping_list.py`: merges quantities, converts spoons and cups, groups by aisle |
-| cook-along | step-by-step mode, "what's next", serving several dishes together | `serving_schedule.py`: backwards timeline, oven-on time, hands-on clash warnings |
-| dietary-adaptation | allergies, intolerances, diets, nutrition goals | `references/allergens.md`: UK/EU, US lists, hidden sources, swap behaviour |
+| cook-along | step-by-step mode, "what's next", serving several dishes together, roast timing | `serving_schedule.py`: backwards timeline, oven-on time, hands-on clashes; `roast_timer.py` |
+| entertaining | feeding a crowd, special occasions, make-ahead | `party_quantities.py`; `references/portions.md` |
+| dietary-adaptation | allergies, intolerances, diets, nutrition goals | `references/allergens.md`: UK/EU and US lists, hidden sources, swap behaviour |
+| nutrition-estimate | calories, macros, per-serving figures | `nutrition.py` with a 220+ ingredient per-100 g table |
 | substitutions | missing ingredient | `references/substitutions.md`: ratios and effects |
+| flavour-pairings | what goes with an ingredient, improvising | `references/pairings.md` |
 | drink-pairings | what to drink, alcohol-free included | `references/pairing-guide.md` |
 | food-safety | temperatures, storage, reheating, "is it safe" | `references/temperatures-and-storage.md` (FSA and USDA figures) |
+| equipment-adaptation | air fryer, slow cooker, pressure cooker, microwave, no oven | `references/conversions.md` |
 | recipe-cards | print, save, export | `assets/recipe-card.md` template |
+| recipe-doctor | check, fix or improve a pasted recipe | `references/checklist.md` |
 | cooking-techniques | learn a method, explore a cuisine | `references/techniques.md` |
 
 Scripts are standard-library Python 3.10+. Every skill also describes the manual procedure, so the behaviour is the same where no Python tool is available.

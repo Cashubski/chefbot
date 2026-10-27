@@ -3,7 +3,7 @@ name: drink-pairings
 description: Recommend wine, beer, cider, sake, cocktails and alcohol-free drinks to go with a dish or a menu. Use when the user asks what to drink or serve with a meal, which wine goes with a recipe, for an alcohol-free pairing, or how to pair a whole menu. Reasons from acidity, sweetness, body, tannin, intensity and the dish's dominant flavours, using references/pairing-guide.md, and never claims live stock or prices.
 metadata:
   publisher: NeuralTake
-  version: "0.16.0"
+  version: "0.17.0"
 ---
 
 # Drink pairings

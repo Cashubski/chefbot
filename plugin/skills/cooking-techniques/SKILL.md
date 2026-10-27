@@ -3,7 +3,7 @@ name: cooking-techniques
 description: Teach a cooking technique, explain why a method works, or introduce a cuisine. Use when the user wants to learn how to do something (knife skills, sauté, braise, roast, emulsify, temper chocolate, make stock, bread, pastry, rice, pasta from scratch, stir-fry, grill), asks why a step matters, wants to explore a cuisine they have not cooked, or asks for the traditional way to make a dish. Explains with the food science in plain language and references/techniques.md, and distinguishes traditional recipes from adaptations.
 metadata:
   publisher: NeuralTake
-  version: "0.16.0"
+  version: "0.17.0"
 ---
 
 # Techniques and cuisines

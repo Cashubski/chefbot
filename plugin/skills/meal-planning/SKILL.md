@@ -3,7 +3,7 @@ name: meal-planning
 description: Plan several meals at once and produce one consolidated shopping list. Use when the user asks for a weekly or multi-day meal plan, batch cooking, meal prep, a budget plan, feeding a household for the week, or a shopping list that combines several recipes. Reuses ingredients across meals to cut waste and cost, then merges quantities by aisle with scripts/shopping_list.py when a Python tool is available.
 metadata:
   publisher: NeuralTake
-  version: "0.16.0"
+  version: "0.17.0"
 ---
 
 # Meal planning and shopping lists

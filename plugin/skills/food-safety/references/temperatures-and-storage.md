@@ -10,13 +10,13 @@
 | Beef and lamb steaks, roasts, whole muscle | surface seared; interior to taste | 63 °C (145 °F) + 3 min rest for medium-rare | rare 50–52 °C, medium-rare 55–57, medium 60–63, well done 70+ |
 | Fish | 63 °C | 63 °C (145 °F) | flakes easily, opaque; tuna and salmon often served lower by choice |
 | Prawns, lobster, crab | opaque and firm | 63 °C | shells pink, flesh opaque |
-| Mussels, clams, oysters (cooked) | until shells open; discard any that stay shut | — | |
+| Mussels, clams, oysters (cooked) | until shells open; discard any that stay shut | - | |
 | Eggs | until white and yolk are set, for vulnerable groups; UK Lion-mark eggs can be eaten runny by all | 71 °C (160 °F) for dishes; cook until firm | |
 | Egg dishes (quiche, frittata) | 72 °C | 71 °C (160 °F) | centre set, no wobble |
 | Stuffing (inside or alongside a bird) | 75 °C | 74 °C (165 °F) | cook stuffing separately if the bird is large |
 | Leftovers and reheated food | 75 °C, steaming hot throughout | 74 °C (165 °F) | |
 | Ham, cooked (reheated) | 75 °C | 60 °C (140 °F) if pre-cooked, 74 °C if not | |
-| Bread (for doneness, not safety) | 90–96 °C | — | hollow sound |
+| Bread (for doneness, not safety) | 90–96 °C | - | hollow sound |
 | Caramel / sugar stages | thread 110, soft ball 115, hard ball 125, hard crack 150, caramel 170 °C | | |
 | Deep frying oil | 170–190 °C | | |
 

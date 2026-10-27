@@ -3,7 +3,7 @@ name: dietary-adaptation
 description: Adapt any recipe for allergies, intolerances and diets. Use when the user mentions an allergy (nuts, peanuts, milk, eggs, gluten, soya, fish, shellfish, sesame and the other regulated allergens), coeliac disease, lactose intolerance, vegetarian, vegan, halal, kosher, low-FODMAP, diabetic-friendly, low-salt, low-fat, high-protein or calorie targets, pregnancy, feeding children, or asks whether a dish is "safe" for someone. Rewrites the recipe with the swaps and the checks that matter, and never promises a dish is allergen-free.
 metadata:
   publisher: NeuralTake
-  version: "0.16.0"
+  version: "0.17.0"
 ---
 
 # Dietary adaptation

@@ -3,7 +3,7 @@ name: recipe-cards
 description: Produce a clean, printable recipe card or a saved copy of a recipe. Use when the user asks to print, save, export, download, share or email a recipe, wants a PDF, a document, a shopping-list card or a weekly plan on one page, or asks for a recipe "written up properly". Formats the recipe with the template in assets/recipe-card.md and creates a file only when the conversation has a tool that can, confirming success before saying the file exists.
 metadata:
   publisher: NeuralTake
-  version: "0.16.0"
+  version: "0.17.0"
 ---
 
 # Recipe cards and exports

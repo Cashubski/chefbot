@@ -80,7 +80,7 @@ Ratios are by weight or volume as stated. "Effect" is what the eater notices.
 | Chilli (fresh) | ¼ tsp chilli flakes, ⅛ tsp cayenne | per chilli | flakes more bitter, cayenne hotter |
 | Garam masala | ½ tsp each cumin, coriander, ¼ tsp cinnamon, pinch of clove and cardamom | per 1½ tsp | close |
 | Smoked paprika | Sweet paprika + a drop of liquid smoke or chipotle | 1:1 | less smoke |
-| Saffron | Turmeric (colour only), a pinch | — | no saffron flavour |
+| Saffron | Turmeric (colour only), a pinch | - | no saffron flavour |
 | Vanilla extract | Vanilla paste, 1 tsp; seeds of ¼ pod | per tsp | paste stronger |
 
 ## Vegetables, nuts and others

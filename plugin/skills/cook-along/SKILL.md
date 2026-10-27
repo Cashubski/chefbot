@@ -3,7 +3,7 @@ name: cook-along
 description: Guide the user step by step while they cook, and time several dishes so they are ready together. Use when the user says they are starting to cook, asks "what's next", wants to be walked through a recipe one step at a time, asks how long something needs or whether it is done, or wants a schedule so the roast, the vegetables and the gravy land on the table at the same time. Builds the backwards timeline with scripts/serving_schedule.py when a Python tool is available.
 metadata:
   publisher: NeuralTake
-  version: "0.16.0"
+  version: "0.17.0"
 ---
 
 # Cook-along mode and serving-time schedules
@@ -27,6 +27,10 @@ When two or more dishes must be ready together:
    The script prints a start-time timeline counted back from `serve_at`, warns where hands-on work overlaps, and adds "put the oven on" at the right moment. Present it as a numbered timeline.
 3. Without a Python tool, count back from the serving time by hand and show the arithmetic for the longest item.
 4. Add the oven plan: which shelf, which temperature, and what to do when two dishes need different temperatures (compromise, or stagger and keep one warm, covered, at 70°C / 60°C fan).
+
+## Roast timer
+
+For a single joint or bird, run `python3 scripts/roast_timer.py --meat chicken --weight-kg 1.8` (meats: chicken, turkey, beef, lamb, pork, ham, duck, goose; add `--doneness medium-rare` for beef or lamb, `--stuffed`, `--boneless`, and `--serve-at 19:30` for an oven-on to carving timeline). It gives the roasting time from the standard minutes-per-weight rules, the oven temperature for conventional and fan, the internal temperature that means done, the resting time and the fridge defrosting time. Use it when the user asks "how long for a 2 kg leg of lamb", is planning a roast dinner, or needs to know when to start a turkey. Without a Python tool, state the rule you are applying and show the arithmetic. The time is an estimate: always finish with the probe reading.
 
 ## Troubleshooting (answer with the rescue first)
 

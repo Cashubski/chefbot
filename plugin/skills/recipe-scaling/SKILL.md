@@ -3,7 +3,7 @@ name: recipe-scaling
 description: Scale a recipe up or down and convert its units deterministically. Use when the user wants a recipe for a different number of people, to double or halve it, to convert between grams and cups or °C and °F, or asks whether times, pan size or seasoning should change when scaling. Runs scripts/scale_recipe.py when a Python tool is available; otherwise follows the same rules by hand.
 metadata:
   publisher: NeuralTake
-  version: "0.16.0"
+  version: "0.17.0"
 ---
 
 # Recipe scaling and unit conversion

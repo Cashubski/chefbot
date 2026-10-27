@@ -103,6 +103,9 @@ def check_manifests() -> dict:
             err(f"interface.{key}: {rel} is not a PNG (SVG, JPEG and WebP are also allowed but not checked here)")
         elif size[0] != size[1] or size[0] < 48 or size[0] > 4096:
             err(f"interface.{key}: icon must be square, 48 to 4096 px (got {size[0]}x{size[1]})")
+    onboarding = root.get("extensions", {}).get("com.openai", {}).get("onboardingSkill")
+    if onboarding and not (onboarding.startswith("./") and (PLUGIN / onboarding).is_file()):
+        err(f"extensions.com.openai.onboardingSkill: {onboarding} must be a ./ path to an existing SKILL.md")
     for key in ("review", "mcpServers"):
         if key in root or key in root.get("extensions", {}).get("com.openai", {}):
             err(f"skills-only plugin must not declare {key}")

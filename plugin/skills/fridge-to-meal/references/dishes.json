@@ -1,0 +1,4768 @@
+[
+ {
+  "name": "Spaghetti aglio e olio",
+  "cuisine": "Italian",
+  "minutes": 15,
+  "difficulty": "easy",
+  "core": [
+   "pasta"
+  ],
+  "optional": [
+   "parsley",
+   "chilli",
+   "parmesan"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "chilli flake"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "cheap",
+   "no-oven"
+  ],
+  "uses_up": [
+   "parsley"
+  ]
+ },
+ {
+  "name": "Pasta al pomodoro",
+  "cuisine": "Italian",
+  "minutes": 30,
+  "difficulty": "easy",
+  "core": [
+   "pasta",
+   "tinned tomato"
+  ],
+  "optional": [
+   "basil",
+   "parmesan",
+   "butter"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "sugar"
+  ],
+  "tags": [
+   "vegetarian",
+   "cheap",
+   "no-oven",
+   "kids"
+  ],
+  "uses_up": [
+   "basil"
+  ]
+ },
+ {
+  "name": "Pasta with courgette and lemon",
+  "cuisine": "Italian",
+  "minutes": 25,
+  "difficulty": "easy",
+  "core": [
+   "pasta",
+   "courgette",
+   "lemon"
+  ],
+  "optional": [
+   "parmesan",
+   "basil",
+   "cream"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "no-oven"
+  ],
+  "uses_up": [
+   "courgette",
+   "lemon"
+  ]
+ },
+ {
+  "name": "Carbonara",
+  "cuisine": "Italian",
+  "minutes": 25,
+  "difficulty": "medium",
+  "core": [
+   "pasta",
+   "egg",
+   "pancetta",
+   "parmesan"
+  ],
+  "optional": [
+   "pecorino"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "quick",
+   "no-oven"
+  ],
+  "uses_up": [
+   "egg"
+  ]
+ },
+ {
+  "name": "Tuna and tomato pasta",
+  "cuisine": "Italian",
+  "minutes": 20,
+  "difficulty": "easy",
+  "core": [
+   "pasta",
+   "tinned tuna",
+   "tinned tomato"
+  ],
+  "optional": [
+   "olive",
+   "caper",
+   "parsley"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "chilli flake"
+  ],
+  "tags": [
+   "quick",
+   "cheap",
+   "no-oven",
+   "kids"
+  ],
+  "uses_up": []
+ },
+ {
+  "name": "Pasta with sausage and fennel",
+  "cuisine": "Italian",
+  "minutes": 35,
+  "difficulty": "medium",
+  "core": [
+   "pasta",
+   "sausage"
+  ],
+  "optional": [
+   "fennel",
+   "cream",
+   "parmesan",
+   "spinach"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "fennel seed",
+   "chilli flake"
+  ],
+  "tags": [
+   "no-oven"
+  ],
+  "uses_up": [
+   "sausage",
+   "spinach"
+  ]
+ },
+ {
+  "name": "Mushroom risotto",
+  "cuisine": "Italian",
+  "minutes": 40,
+  "difficulty": "medium",
+  "core": [
+   "rice",
+   "mushroom",
+   "parmesan"
+  ],
+  "optional": [
+   "white wine",
+   "butter",
+   "thyme"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock"
+  ],
+  "tags": [
+   "vegetarian",
+   "no-oven"
+  ],
+  "uses_up": [
+   "mushroom"
+  ]
+ },
+ {
+  "name": "Risotto alla milanese",
+  "cuisine": "Italian",
+  "minutes": 35,
+  "difficulty": "medium",
+  "core": [
+   "rice",
+   "parmesan",
+   "butter"
+  ],
+  "optional": [
+   "white wine",
+   "saffron"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock"
+  ],
+  "tags": [
+   "vegetarian",
+   "no-oven"
+  ],
+  "uses_up": []
+ },
+ {
+  "name": "Minestrone",
+  "cuisine": "Italian",
+  "minutes": 45,
+  "difficulty": "easy",
+  "core": [
+   "tinned tomato",
+   "carrot",
+   "celery",
+   "tinned bean"
+  ],
+  "optional": [
+   "pasta",
+   "courgette",
+   "cabbage",
+   "kale",
+   "parmesan"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock"
+  ],
+  "tags": [
+   "vegetarian",
+   "batch",
+   "cheap",
+   "no-oven"
+  ],
+  "uses_up": [
+   "carrot",
+   "celery",
+   "cabbage",
+   "courgette",
+   "kale"
+  ]
+ },
+ {
+  "name": "Caprese salad",
+  "cuisine": "Italian",
+  "minutes": 10,
+  "difficulty": "easy",
+  "core": [
+   "tomato",
+   "mozzarella",
+   "basil"
+  ],
+  "optional": [
+   "bread"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "vinegar"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "no-oven",
+   "gluten-free"
+  ],
+  "uses_up": [
+   "tomato",
+   "mozzarella",
+   "basil"
+  ]
+ },
+ {
+  "name": "Chicken cacciatore",
+  "cuisine": "Italian",
+  "minutes": 60,
+  "difficulty": "medium",
+  "core": [
+   "chicken thigh",
+   "tinned tomato",
+   "pepper"
+  ],
+  "optional": [
+   "olive",
+   "mushroom",
+   "white wine",
+   "rosemary"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock"
+  ],
+  "tags": [
+   "one-pan",
+   "batch",
+   "gluten-free"
+  ],
+  "uses_up": [
+   "pepper",
+   "mushroom"
+  ]
+ },
+ {
+  "name": "Frittata",
+  "cuisine": "Italian",
+  "minutes": 25,
+  "difficulty": "easy",
+  "core": [
+   "egg"
+  ],
+  "optional": [
+   "potato",
+   "cheese",
+   "spinach",
+   "pepper",
+   "courgette",
+   "ham",
+   "herb"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "leftovers",
+   "gluten-free",
+   "one-pan",
+   "cheap"
+  ],
+  "uses_up": [
+   "egg",
+   "spinach",
+   "pepper",
+   "courgette",
+   "potato"
+  ]
+ },
+ {
+  "name": "Panzanella",
+  "cuisine": "Italian",
+  "minutes": 20,
+  "difficulty": "easy",
+  "core": [
+   "bread",
+   "tomato",
+   "cucumber"
+  ],
+  "optional": [
+   "red onion",
+   "basil",
+   "caper",
+   "mozzarella"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "vinegar"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "quick",
+   "no-oven",
+   "leftovers"
+  ],
+  "uses_up": [
+   "bread",
+   "tomato",
+   "cucumber",
+   "basil"
+  ]
+ },
+ {
+  "name": "Lasagne",
+  "cuisine": "Italian",
+  "minutes": 120,
+  "difficulty": "involved",
+  "core": [
+   "lasagne sheet",
+   "minced beef",
+   "tinned tomato",
+   "milk",
+   "butter",
+   "flour"
+  ],
+  "optional": [
+   "parmesan",
+   "mozzarella",
+   "carrot",
+   "celery"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "batch",
+   "kids"
+  ],
+  "uses_up": [
+   "minced beef"
+  ]
+ },
+ {
+  "name": "Gnocchi with sage butter",
+  "cuisine": "Italian",
+  "minutes": 15,
+  "difficulty": "easy",
+  "core": [
+   "gnocchi",
+   "butter"
+  ],
+  "optional": [
+   "sage",
+   "parmesan"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "no-oven"
+  ],
+  "uses_up": []
+ },
+ {
+  "name": "Margherita pizza",
+  "cuisine": "Italian",
+  "minutes": 90,
+  "difficulty": "involved",
+  "core": [
+   "flour",
+   "yeast",
+   "tinned tomato",
+   "mozzarella"
+  ],
+  "optional": [
+   "basil"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "sugar"
+  ],
+  "tags": [
+   "vegetarian",
+   "kids"
+  ],
+  "uses_up": [
+   "mozzarella"
+  ]
+ },
+ {
+  "name": "Omelette",
+  "cuisine": "French",
+  "minutes": 10,
+  "difficulty": "easy",
+  "core": [
+   "egg",
+   "butter"
+  ],
+  "optional": [
+   "cheese",
+   "herb",
+   "mushroom",
+   "ham"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "no-oven",
+   "gluten-free",
+   "cheap"
+  ],
+  "uses_up": [
+   "egg",
+   "herb",
+   "mushroom"
+  ]
+ },
+ {
+  "name": "French onion soup",
+  "cuisine": "French",
+  "minutes": 75,
+  "difficulty": "medium",
+  "core": [
+   "onion",
+   "butter",
+   "bread",
+   "cheese"
+  ],
+  "optional": [
+   "white wine",
+   "thyme"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock"
+  ],
+  "tags": [
+   "vegetarian",
+   "cheap"
+  ],
+  "uses_up": [
+   "onion",
+   "bread",
+   "cheese"
+  ]
+ },
+ {
+  "name": "Chicken with tarragon cream",
+  "cuisine": "French",
+  "minutes": 35,
+  "difficulty": "medium",
+  "core": [
+   "chicken breast",
+   "cream"
+  ],
+  "optional": [
+   "tarragon",
+   "white wine",
+   "shallot",
+   "mushroom"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "mustard"
+  ],
+  "tags": [
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "cream",
+   "mushroom"
+  ]
+ },
+ {
+  "name": "Boeuf bourguignon",
+  "cuisine": "French",
+  "minutes": 180,
+  "difficulty": "involved",
+  "core": [
+   "stewing beef",
+   "red wine",
+   "carrot",
+   "mushroom"
+  ],
+  "optional": [
+   "bacon",
+   "shallot",
+   "thyme"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "flour",
+   "butter"
+  ],
+  "tags": [
+   "batch"
+  ],
+  "uses_up": [
+   "carrot",
+   "mushroom",
+   "red wine"
+  ]
+ },
+ {
+  "name": "Ratatouille",
+  "cuisine": "French",
+  "minutes": 60,
+  "difficulty": "medium",
+  "core": [
+   "aubergine",
+   "courgette",
+   "pepper",
+   "tomato"
+  ],
+  "optional": [
+   "basil",
+   "thyme"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "batch",
+   "one-pan"
+  ],
+  "uses_up": [
+   "aubergine",
+   "courgette",
+   "pepper",
+   "tomato"
+  ]
+ },
+ {
+  "name": "Quiche lorraine",
+  "cuisine": "French",
+  "minutes": 75,
+  "difficulty": "medium",
+  "core": [
+   "flour",
+   "butter",
+   "egg",
+   "cream",
+   "bacon"
+  ],
+  "optional": [
+   "cheese",
+   "leek",
+   "spinach"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "leftovers"
+  ],
+  "uses_up": [
+   "egg",
+   "cream",
+   "spinach",
+   "leek"
+  ]
+ },
+ {
+  "name": "Croque monsieur",
+  "cuisine": "French",
+  "minutes": 20,
+  "difficulty": "easy",
+  "core": [
+   "bread",
+   "ham",
+   "cheese",
+   "butter"
+  ],
+  "optional": [
+   "milk",
+   "flour"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "mustard"
+  ],
+  "tags": [
+   "quick",
+   "kids"
+  ],
+  "uses_up": [
+   "bread",
+   "ham",
+   "cheese"
+  ]
+ },
+ {
+  "name": "Salade niçoise",
+  "cuisine": "French",
+  "minutes": 25,
+  "difficulty": "easy",
+  "core": [
+   "tinned tuna",
+   "egg",
+   "potato",
+   "green bean"
+  ],
+  "optional": [
+   "tomato",
+   "olive",
+   "anchovy",
+   "lettuce"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "vinegar",
+   "mustard"
+  ],
+  "tags": [
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "egg",
+   "potato",
+   "green bean",
+   "lettuce"
+  ]
+ },
+ {
+  "name": "Potato gratin",
+  "cuisine": "French",
+  "minutes": 75,
+  "difficulty": "easy",
+  "core": [
+   "potato",
+   "cream",
+   "garlic"
+  ],
+  "optional": [
+   "cheese",
+   "thyme",
+   "milk"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "gluten-free"
+  ],
+  "uses_up": [
+   "potato",
+   "cream"
+  ]
+ },
+ {
+  "name": "Leek and potato soup",
+  "cuisine": "French",
+  "minutes": 40,
+  "difficulty": "easy",
+  "core": [
+   "leek",
+   "potato"
+  ],
+  "optional": [
+   "cream",
+   "butter",
+   "chive"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock"
+  ],
+  "tags": [
+   "vegetarian",
+   "cheap",
+   "batch",
+   "no-oven",
+   "gluten-free"
+  ],
+  "uses_up": [
+   "leek",
+   "potato"
+  ]
+ },
+ {
+  "name": "Spanish tortilla",
+  "cuisine": "Spanish",
+  "minutes": 40,
+  "difficulty": "easy",
+  "core": [
+   "egg",
+   "potato",
+   "onion"
+  ],
+  "optional": [
+   "pepper",
+   "chorizo"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "gluten-free",
+   "cheap",
+   "no-oven",
+   "leftovers"
+  ],
+  "uses_up": [
+   "egg",
+   "potato"
+  ]
+ },
+ {
+  "name": "Patatas bravas",
+  "cuisine": "Spanish",
+  "minutes": 45,
+  "difficulty": "easy",
+  "core": [
+   "potato",
+   "tinned tomato"
+  ],
+  "optional": [
+   "mayonnaise"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "smoked paprika",
+   "vinegar"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "cheap"
+  ],
+  "uses_up": [
+   "potato"
+  ]
+ },
+ {
+  "name": "Paella",
+  "cuisine": "Spanish",
+  "minutes": 60,
+  "difficulty": "involved",
+  "core": [
+   "rice",
+   "chicken thigh",
+   "pepper",
+   "tinned tomato"
+  ],
+  "optional": [
+   "prawn",
+   "chorizo",
+   "pea",
+   "saffron",
+   "lemon"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "smoked paprika"
+  ],
+  "tags": [
+   "one-pan",
+   "gluten-free"
+  ],
+  "uses_up": [
+   "pepper",
+   "prawn"
+  ]
+ },
+ {
+  "name": "Chorizo and chickpea stew",
+  "cuisine": "Spanish",
+  "minutes": 30,
+  "difficulty": "easy",
+  "core": [
+   "chorizo",
+   "tinned chickpea",
+   "tinned tomato"
+  ],
+  "optional": [
+   "spinach",
+   "pepper"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "smoked paprika"
+  ],
+  "tags": [
+   "quick",
+   "one-pan",
+   "batch",
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "spinach",
+   "pepper"
+  ]
+ },
+ {
+  "name": "Gazpacho",
+  "cuisine": "Spanish",
+  "minutes": 15,
+  "difficulty": "easy",
+  "core": [
+   "tomato",
+   "cucumber",
+   "pepper",
+   "bread"
+  ],
+  "optional": [
+   "red onion"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "vinegar"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "quick",
+   "no-oven",
+   "leftovers"
+  ],
+  "uses_up": [
+   "tomato",
+   "cucumber",
+   "pepper",
+   "bread"
+  ]
+ },
+ {
+  "name": "Greek salad",
+  "cuisine": "Greek",
+  "minutes": 10,
+  "difficulty": "easy",
+  "core": [
+   "tomato",
+   "cucumber",
+   "feta",
+   "olive"
+  ],
+  "optional": [
+   "red onion",
+   "oregano"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "vinegar"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "no-oven",
+   "gluten-free"
+  ],
+  "uses_up": [
+   "tomato",
+   "cucumber",
+   "feta"
+  ]
+ },
+ {
+  "name": "Hummus with pitta",
+  "cuisine": "Levantine",
+  "minutes": 10,
+  "difficulty": "easy",
+  "core": [
+   "tinned chickpea",
+   "tahini",
+   "lemon"
+  ],
+  "optional": [
+   "pitta",
+   "cumin",
+   "paprika"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "quick",
+   "no-oven",
+   "cheap"
+  ],
+  "uses_up": [
+   "lemon"
+  ]
+ },
+ {
+  "name": "Chicken souvlaki",
+  "cuisine": "Greek",
+  "minutes": 30,
+  "difficulty": "easy",
+  "core": [
+   "chicken thigh",
+   "lemon",
+   "yoghurt"
+  ],
+  "optional": [
+   "pitta",
+   "cucumber",
+   "oregano",
+   "tomato"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "quick",
+   "gluten-free"
+  ],
+  "uses_up": [
+   "yoghurt",
+   "cucumber",
+   "lemon"
+  ]
+ },
+ {
+  "name": "Lamb kofta with tzatziki",
+  "cuisine": "Levantine",
+  "minutes": 35,
+  "difficulty": "medium",
+  "core": [
+   "minced lamb",
+   "yoghurt",
+   "cucumber"
+  ],
+  "optional": [
+   "pitta",
+   "parsley",
+   "mint",
+   "cumin"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "quick"
+  ],
+  "uses_up": [
+   "yoghurt",
+   "cucumber",
+   "mint",
+   "parsley"
+  ]
+ },
+ {
+  "name": "Shakshuka",
+  "cuisine": "Levantine",
+  "minutes": 30,
+  "difficulty": "easy",
+  "core": [
+   "egg",
+   "tinned tomato",
+   "pepper"
+  ],
+  "optional": [
+   "feta",
+   "parsley",
+   "coriander",
+   "bread"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin",
+   "paprika",
+   "chilli flake"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "one-pan",
+   "gluten-free",
+   "no-oven",
+   "cheap"
+  ],
+  "uses_up": [
+   "egg",
+   "pepper",
+   "feta",
+   "coriander"
+  ]
+ },
+ {
+  "name": "Falafel",
+  "cuisine": "Levantine",
+  "minutes": 45,
+  "difficulty": "medium",
+  "core": [
+   "tinned chickpea",
+   "parsley",
+   "coriander",
+   "flour"
+  ],
+  "optional": [
+   "tahini",
+   "pitta",
+   "cumin"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin",
+   "coriander seed"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "cheap"
+  ],
+  "uses_up": [
+   "parsley",
+   "coriander"
+  ]
+ },
+ {
+  "name": "Fattoush",
+  "cuisine": "Levantine",
+  "minutes": 20,
+  "difficulty": "easy",
+  "core": [
+   "pitta",
+   "tomato",
+   "cucumber",
+   "lettuce"
+  ],
+  "optional": [
+   "radish",
+   "mint",
+   "parsley",
+   "sumac",
+   "pomegranate molasses"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "lemon"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "quick",
+   "no-oven",
+   "leftovers"
+  ],
+  "uses_up": [
+   "pitta",
+   "lettuce",
+   "tomato",
+   "cucumber",
+   "mint"
+  ]
+ },
+ {
+  "name": "Spanakopita",
+  "cuisine": "Greek",
+  "minutes": 60,
+  "difficulty": "medium",
+  "core": [
+   "spinach",
+   "feta",
+   "filo pastry",
+   "egg"
+  ],
+  "optional": [
+   "dill",
+   "spring onion",
+   "butter"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian"
+  ],
+  "uses_up": [
+   "spinach",
+   "feta",
+   "dill"
+  ]
+ },
+ {
+  "name": "Moussaka",
+  "cuisine": "Greek",
+  "minutes": 120,
+  "difficulty": "involved",
+  "core": [
+   "aubergine",
+   "minced lamb",
+   "tinned tomato",
+   "milk",
+   "flour",
+   "butter"
+  ],
+  "optional": [
+   "potato",
+   "cheese",
+   "cinnamon"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cinnamon"
+  ],
+  "tags": [
+   "batch"
+  ],
+  "uses_up": [
+   "aubergine"
+  ]
+ },
+ {
+  "name": "Mujadara",
+  "cuisine": "Levantine",
+  "minutes": 50,
+  "difficulty": "easy",
+  "core": [
+   "lentil",
+   "rice",
+   "onion"
+  ],
+  "optional": [
+   "yoghurt",
+   "cumin"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "cheap",
+   "batch",
+   "no-oven"
+  ],
+  "uses_up": [
+   "onion"
+  ]
+ },
+ {
+  "name": "Menemen",
+  "cuisine": "Turkish",
+  "minutes": 20,
+  "difficulty": "easy",
+  "core": [
+   "egg",
+   "tomato",
+   "pepper"
+  ],
+  "optional": [
+   "feta",
+   "parsley",
+   "bread"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "chilli flake"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "one-pan",
+   "gluten-free",
+   "no-oven",
+   "cheap"
+  ],
+  "uses_up": [
+   "egg",
+   "tomato",
+   "pepper"
+  ]
+ },
+ {
+  "name": "Imam bayildi",
+  "cuisine": "Turkish",
+  "minutes": 75,
+  "difficulty": "medium",
+  "core": [
+   "aubergine",
+   "tomato",
+   "onion"
+  ],
+  "optional": [
+   "parsley",
+   "pepper"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "sugar"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free"
+  ],
+  "uses_up": [
+   "aubergine",
+   "tomato"
+  ]
+ },
+ {
+  "name": "Persian herb rice (tahdig)",
+  "cuisine": "Persian",
+  "minutes": 70,
+  "difficulty": "involved",
+  "core": [
+   "rice",
+   "butter",
+   "herb"
+  ],
+  "optional": [
+   "dill",
+   "parsley",
+   "coriander",
+   "saffron",
+   "yoghurt"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "gluten-free"
+  ],
+  "uses_up": [
+   "dill",
+   "parsley",
+   "coriander"
+  ]
+ },
+ {
+  "name": "Fesenjan",
+  "cuisine": "Persian",
+  "minutes": 90,
+  "difficulty": "medium",
+  "core": [
+   "chicken thigh",
+   "walnut",
+   "pomegranate molasses"
+  ],
+  "optional": [
+   "onion"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "sugar"
+  ],
+  "tags": [
+   "gluten-free",
+   "batch"
+  ],
+  "uses_up": [
+   "walnut"
+  ]
+ },
+ {
+  "name": "Dal tadka",
+  "cuisine": "Indian",
+  "minutes": 40,
+  "difficulty": "easy",
+  "core": [
+   "lentil",
+   "tomato",
+   "onion"
+  ],
+  "optional": [
+   "coriander",
+   "ginger",
+   "chilli",
+   "butter"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin",
+   "turmeric",
+   "mustard seed"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "cheap",
+   "batch",
+   "no-oven"
+  ],
+  "uses_up": [
+   "tomato",
+   "coriander"
+  ]
+ },
+ {
+  "name": "Chana masala",
+  "cuisine": "Indian",
+  "minutes": 35,
+  "difficulty": "easy",
+  "core": [
+   "tinned chickpea",
+   "tinned tomato",
+   "onion"
+  ],
+  "optional": [
+   "ginger",
+   "coriander",
+   "chilli",
+   "yoghurt"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin",
+   "garam masala",
+   "turmeric"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "cheap",
+   "batch",
+   "no-oven"
+  ],
+  "uses_up": [
+   "coriander"
+  ]
+ },
+ {
+  "name": "Chicken curry",
+  "cuisine": "Indian",
+  "minutes": 50,
+  "difficulty": "medium",
+  "core": [
+   "chicken thigh",
+   "onion",
+   "tinned tomato",
+   "yoghurt"
+  ],
+  "optional": [
+   "ginger",
+   "coriander",
+   "chilli",
+   "cream"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "garam masala",
+   "cumin",
+   "turmeric"
+  ],
+  "tags": [
+   "batch",
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "yoghurt",
+   "coriander"
+  ]
+ },
+ {
+  "name": "Saag paneer",
+  "cuisine": "Indian",
+  "minutes": 35,
+  "difficulty": "medium",
+  "core": [
+   "spinach",
+   "paneer"
+  ],
+  "optional": [
+   "cream",
+   "ginger",
+   "chilli",
+   "tomato"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin",
+   "garam masala",
+   "turmeric"
+  ],
+  "tags": [
+   "vegetarian",
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "spinach",
+   "paneer"
+  ]
+ },
+ {
+  "name": "Aloo gobi",
+  "cuisine": "Indian",
+  "minutes": 40,
+  "difficulty": "easy",
+  "core": [
+   "potato",
+   "cauliflower",
+   "tomato"
+  ],
+  "optional": [
+   "coriander",
+   "ginger",
+   "pea"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin",
+   "turmeric",
+   "garam masala"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "cheap",
+   "one-pan",
+   "no-oven"
+  ],
+  "uses_up": [
+   "cauliflower",
+   "potato",
+   "coriander"
+  ]
+ },
+ {
+  "name": "Egg curry",
+  "cuisine": "Indian",
+  "minutes": 35,
+  "difficulty": "easy",
+  "core": [
+   "egg",
+   "tinned tomato",
+   "onion"
+  ],
+  "optional": [
+   "coconut milk",
+   "coriander",
+   "chilli"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin",
+   "turmeric",
+   "garam masala"
+  ],
+  "tags": [
+   "vegetarian",
+   "gluten-free",
+   "cheap",
+   "no-oven"
+  ],
+  "uses_up": [
+   "egg",
+   "coconut milk"
+  ]
+ },
+ {
+  "name": "Vegetable biryani",
+  "cuisine": "Indian",
+  "minutes": 70,
+  "difficulty": "involved",
+  "core": [
+   "rice",
+   "yoghurt",
+   "onion",
+   "mixed vegetable"
+  ],
+  "optional": [
+   "carrot",
+   "pea",
+   "cauliflower",
+   "potato",
+   "coriander",
+   "mint",
+   "saffron"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "garam masala",
+   "cumin",
+   "turmeric"
+  ],
+  "tags": [
+   "vegetarian",
+   "gluten-free",
+   "batch"
+  ],
+  "uses_up": [
+   "yoghurt",
+   "carrot",
+   "cauliflower",
+   "mint"
+  ]
+ },
+ {
+  "name": "Rasam",
+  "cuisine": "Indian",
+  "minutes": 30,
+  "difficulty": "easy",
+  "core": [
+   "tomato",
+   "tamarind",
+   "lentil"
+  ],
+  "optional": [
+   "coriander",
+   "curry leaf"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin",
+   "black pepper",
+   "mustard seed",
+   "turmeric"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "quick",
+   "cheap",
+   "no-oven"
+  ],
+  "uses_up": [
+   "tomato"
+  ]
+ },
+ {
+  "name": "Coconut dal with spinach",
+  "cuisine": "Indian",
+  "minutes": 35,
+  "difficulty": "easy",
+  "core": [
+   "lentil",
+   "coconut milk",
+   "spinach"
+  ],
+  "optional": [
+   "tomato",
+   "ginger",
+   "lime",
+   "coriander"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin",
+   "turmeric",
+   "mustard seed"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "batch",
+   "cheap",
+   "no-oven"
+  ],
+  "uses_up": [
+   "spinach",
+   "coconut milk"
+  ]
+ },
+ {
+  "name": "Kedgeree",
+  "cuisine": "British",
+  "minutes": 35,
+  "difficulty": "easy",
+  "core": [
+   "rice",
+   "smoked haddock",
+   "egg"
+  ],
+  "optional": [
+   "butter",
+   "parsley",
+   "pea",
+   "lemon",
+   "cream"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "curry powder"
+  ],
+  "tags": [
+   "leftovers",
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "egg",
+   "smoked haddock",
+   "parsley"
+  ]
+ },
+ {
+  "name": "Pad kra pao",
+  "cuisine": "Thai",
+  "minutes": 20,
+  "difficulty": "easy",
+  "core": [
+   "minced pork",
+   "basil",
+   "chilli"
+  ],
+  "optional": [
+   "egg",
+   "green bean",
+   "rice"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "soy",
+   "fish sauce",
+   "sugar"
+  ],
+  "tags": [
+   "quick",
+   "no-oven",
+   "gluten-free"
+  ],
+  "uses_up": [
+   "basil",
+   "green bean"
+  ]
+ },
+ {
+  "name": "Thai green curry",
+  "cuisine": "Thai",
+  "minutes": 35,
+  "difficulty": "easy",
+  "core": [
+   "coconut milk",
+   "green curry paste",
+   "chicken thigh"
+  ],
+  "optional": [
+   "aubergine",
+   "green bean",
+   "basil",
+   "pepper",
+   "lime",
+   "rice"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "fish sauce",
+   "sugar"
+  ],
+  "tags": [
+   "quick",
+   "gluten-free",
+   "one-pan",
+   "no-oven"
+  ],
+  "uses_up": [
+   "coconut milk",
+   "aubergine",
+   "green bean",
+   "basil"
+  ]
+ },
+ {
+  "name": "Tom yum",
+  "cuisine": "Thai",
+  "minutes": 30,
+  "difficulty": "medium",
+  "core": [
+   "prawn",
+   "lemongrass",
+   "lime",
+   "mushroom"
+  ],
+  "optional": [
+   "chilli",
+   "coriander",
+   "tomato",
+   "galangal"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "fish sauce",
+   "stock"
+  ],
+  "tags": [
+   "quick",
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "prawn",
+   "mushroom",
+   "lime",
+   "coriander"
+  ]
+ },
+ {
+  "name": "Pad thai",
+  "cuisine": "Thai",
+  "minutes": 30,
+  "difficulty": "medium",
+  "core": [
+   "rice noodle",
+   "egg",
+   "tamarind",
+   "peanut"
+  ],
+  "optional": [
+   "prawn",
+   "tofu",
+   "bean sprout",
+   "spring onion",
+   "lime"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "fish sauce",
+   "sugar"
+  ],
+  "tags": [
+   "no-oven",
+   "gluten-free"
+  ],
+  "uses_up": [
+   "egg",
+   "bean sprout",
+   "spring onion",
+   "lime"
+  ]
+ },
+ {
+  "name": "Thai red curry with vegetables",
+  "cuisine": "Thai",
+  "minutes": 30,
+  "difficulty": "easy",
+  "core": [
+   "coconut milk",
+   "red curry paste",
+   "mixed vegetable"
+  ],
+  "optional": [
+   "tofu",
+   "pepper",
+   "courgette",
+   "sweet potato",
+   "basil",
+   "rice"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "soy",
+   "sugar"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "quick",
+   "one-pan",
+   "no-oven"
+  ],
+  "uses_up": [
+   "pepper",
+   "courgette",
+   "sweet potato",
+   "coconut milk"
+  ]
+ },
+ {
+  "name": "Vietnamese summer rolls",
+  "cuisine": "Vietnamese",
+  "minutes": 30,
+  "difficulty": "medium",
+  "core": [
+   "rice paper",
+   "rice noodle",
+   "lettuce",
+   "herb"
+  ],
+  "optional": [
+   "prawn",
+   "tofu",
+   "cucumber",
+   "carrot",
+   "mint",
+   "coriander",
+   "peanut"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "fish sauce",
+   "lime",
+   "sugar"
+  ],
+  "tags": [
+   "no-oven",
+   "gluten-free",
+   "quick"
+  ],
+  "uses_up": [
+   "lettuce",
+   "mint",
+   "coriander",
+   "cucumber",
+   "carrot"
+  ]
+ },
+ {
+  "name": "Bun cha style pork with noodles",
+  "cuisine": "Vietnamese",
+  "minutes": 40,
+  "difficulty": "medium",
+  "core": [
+   "minced pork",
+   "rice noodle",
+   "lime"
+  ],
+  "optional": [
+   "lettuce",
+   "mint",
+   "coriander",
+   "cucumber",
+   "carrot"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "fish sauce",
+   "sugar"
+  ],
+  "tags": [
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "mint",
+   "coriander",
+   "lettuce",
+   "cucumber"
+  ]
+ },
+ {
+  "name": "Egg fried rice",
+  "cuisine": "Chinese",
+  "minutes": 15,
+  "difficulty": "easy",
+  "core": [
+   "rice",
+   "egg"
+  ],
+  "optional": [
+   "spring onion",
+   "pea",
+   "carrot",
+   "pepper",
+   "ham",
+   "prawn"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "soy",
+   "sesame oil"
+  ],
+  "tags": [
+   "quick",
+   "leftovers",
+   "cheap",
+   "no-oven",
+   "kids"
+  ],
+  "uses_up": [
+   "rice",
+   "egg",
+   "spring onion",
+   "carrot",
+   "pepper"
+  ]
+ },
+ {
+  "name": "Tomato and egg stir-fry",
+  "cuisine": "Chinese",
+  "minutes": 15,
+  "difficulty": "easy",
+  "core": [
+   "egg",
+   "tomato"
+  ],
+  "optional": [
+   "spring onion",
+   "rice"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "soy",
+   "sugar",
+   "sesame oil"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "cheap",
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "egg",
+   "tomato"
+  ]
+ },
+ {
+  "name": "Mapo tofu",
+  "cuisine": "Chinese",
+  "minutes": 25,
+  "difficulty": "medium",
+  "core": [
+   "tofu",
+   "minced pork",
+   "doubanjiang"
+  ],
+  "optional": [
+   "spring onion",
+   "sichuan pepper",
+   "rice"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "soy",
+   "cornflour",
+   "stock"
+  ],
+  "tags": [
+   "quick",
+   "no-oven"
+  ],
+  "uses_up": [
+   "tofu",
+   "spring onion"
+  ]
+ },
+ {
+  "name": "Vegetable chow mein",
+  "cuisine": "Chinese",
+  "minutes": 20,
+  "difficulty": "easy",
+  "core": [
+   "egg noodle",
+   "cabbage",
+   "carrot"
+  ],
+  "optional": [
+   "pepper",
+   "bean sprout",
+   "spring onion",
+   "mushroom"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "soy",
+   "sesame oil"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "quick",
+   "no-oven",
+   "cheap"
+  ],
+  "uses_up": [
+   "cabbage",
+   "carrot",
+   "pepper",
+   "mushroom"
+  ]
+ },
+ {
+  "name": "Kung pao chicken",
+  "cuisine": "Chinese",
+  "minutes": 30,
+  "difficulty": "medium",
+  "core": [
+   "chicken thigh",
+   "peanut",
+   "chilli",
+   "pepper"
+  ],
+  "optional": [
+   "spring onion",
+   "rice"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "soy",
+   "vinegar",
+   "sugar",
+   "cornflour"
+  ],
+  "tags": [
+   "quick",
+   "no-oven"
+  ],
+  "uses_up": [
+   "pepper",
+   "spring onion"
+  ]
+ },
+ {
+  "name": "Congee",
+  "cuisine": "Chinese",
+  "minutes": 90,
+  "difficulty": "easy",
+  "core": [
+   "rice"
+  ],
+  "optional": [
+   "egg",
+   "spring onion",
+   "ginger",
+   "chicken thigh",
+   "mushroom"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "soy",
+   "sesame oil"
+  ],
+  "tags": [
+   "leftovers",
+   "cheap",
+   "gluten-free",
+   "no-oven",
+   "kids"
+  ],
+  "uses_up": [
+   "spring onion",
+   "mushroom"
+  ]
+ },
+ {
+  "name": "Miso soup with rice",
+  "cuisine": "Japanese",
+  "minutes": 15,
+  "difficulty": "easy",
+  "core": [
+   "miso",
+   "tofu",
+   "rice"
+  ],
+  "optional": [
+   "spring onion",
+   "seaweed",
+   "mushroom",
+   "spinach"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "dashi"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "quick",
+   "cheap",
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "tofu",
+   "spinach",
+   "spring onion"
+  ]
+ },
+ {
+  "name": "Teriyaki salmon",
+  "cuisine": "Japanese",
+  "minutes": 25,
+  "difficulty": "easy",
+  "core": [
+   "salmon",
+   "rice"
+  ],
+  "optional": [
+   "spring onion",
+   "broccoli",
+   "sesame seed",
+   "ginger"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "soy",
+   "mirin",
+   "sugar"
+  ],
+  "tags": [
+   "quick",
+   "no-oven"
+  ],
+  "uses_up": [
+   "salmon",
+   "broccoli"
+  ]
+ },
+ {
+  "name": "Oyakodon",
+  "cuisine": "Japanese",
+  "minutes": 20,
+  "difficulty": "easy",
+  "core": [
+   "chicken thigh",
+   "egg",
+   "rice",
+   "onion"
+  ],
+  "optional": [
+   "spring onion"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "soy",
+   "mirin",
+   "dashi",
+   "sugar"
+  ],
+  "tags": [
+   "quick",
+   "one-pan",
+   "no-oven",
+   "kids"
+  ],
+  "uses_up": [
+   "egg"
+  ]
+ },
+ {
+  "name": "Okonomiyaki",
+  "cuisine": "Japanese",
+  "minutes": 25,
+  "difficulty": "easy",
+  "core": [
+   "cabbage",
+   "egg",
+   "flour"
+  ],
+  "optional": [
+   "spring onion",
+   "bacon",
+   "prawn",
+   "mayonnaise"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "dashi"
+  ],
+  "tags": [
+   "quick",
+   "cheap",
+   "no-oven",
+   "leftovers"
+  ],
+  "uses_up": [
+   "cabbage",
+   "egg",
+   "spring onion"
+  ]
+ },
+ {
+  "name": "Kimchi fried rice",
+  "cuisine": "Korean",
+  "minutes": 15,
+  "difficulty": "easy",
+  "core": [
+   "rice",
+   "kimchi",
+   "egg"
+  ],
+  "optional": [
+   "spring onion",
+   "bacon",
+   "spam",
+   "cheese"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "sesame oil",
+   "soy",
+   "gochujang"
+  ],
+  "tags": [
+   "quick",
+   "leftovers",
+   "cheap",
+   "no-oven"
+  ],
+  "uses_up": [
+   "rice",
+   "kimchi",
+   "egg"
+  ]
+ },
+ {
+  "name": "Bibimbap",
+  "cuisine": "Korean",
+  "minutes": 40,
+  "difficulty": "medium",
+  "core": [
+   "rice",
+   "egg",
+   "spinach",
+   "carrot"
+  ],
+  "optional": [
+   "minced beef",
+   "mushroom",
+   "courgette",
+   "bean sprout",
+   "kimchi"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "gochujang",
+   "sesame oil",
+   "soy"
+  ],
+  "tags": [
+   "leftovers",
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "spinach",
+   "carrot",
+   "courgette",
+   "mushroom",
+   "bean sprout"
+  ]
+ },
+ {
+  "name": "Dakgalbi",
+  "cuisine": "Korean",
+  "minutes": 35,
+  "difficulty": "medium",
+  "core": [
+   "chicken thigh",
+   "gochujang",
+   "cabbage",
+   "sweet potato"
+  ],
+  "optional": [
+   "rice cake",
+   "spring onion",
+   "cheese",
+   "perilla"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "soy",
+   "sugar",
+   "sesame oil"
+  ],
+  "tags": [
+   "one-pan",
+   "no-oven"
+  ],
+  "uses_up": [
+   "cabbage",
+   "sweet potato",
+   "spring onion"
+  ]
+ },
+ {
+  "name": "Tacos with salsa verde",
+  "cuisine": "Mexican",
+  "minutes": 30,
+  "difficulty": "easy",
+  "core": [
+   "tortilla",
+   "tomatillo",
+   "onion"
+  ],
+  "optional": [
+   "chicken thigh",
+   "pork",
+   "coriander",
+   "lime",
+   "chilli",
+   "avocado"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin"
+  ],
+  "tags": [
+   "quick",
+   "no-oven"
+  ],
+  "uses_up": [
+   "coriander",
+   "lime",
+   "avocado"
+  ]
+ },
+ {
+  "name": "Black beans and rice",
+  "cuisine": "Mexican",
+  "minutes": 35,
+  "difficulty": "easy",
+  "core": [
+   "tinned black bean",
+   "rice",
+   "onion"
+  ],
+  "optional": [
+   "pepper",
+   "coriander",
+   "lime",
+   "avocado",
+   "cheese"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin",
+   "oregano"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "cheap",
+   "batch",
+   "no-oven"
+  ],
+  "uses_up": [
+   "pepper",
+   "coriander",
+   "lime"
+  ]
+ },
+ {
+  "name": "Chicken tinga",
+  "cuisine": "Mexican",
+  "minutes": 45,
+  "difficulty": "medium",
+  "core": [
+   "chicken thigh",
+   "tinned tomato",
+   "onion",
+   "chipotle"
+  ],
+  "optional": [
+   "tortilla",
+   "avocado",
+   "coriander",
+   "lime",
+   "sour cream"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "oregano"
+  ],
+  "tags": [
+   "batch",
+   "gluten-free"
+  ],
+  "uses_up": [
+   "coriander",
+   "avocado"
+  ]
+ },
+ {
+  "name": "Quesadillas",
+  "cuisine": "Mexican",
+  "minutes": 15,
+  "difficulty": "easy",
+  "core": [
+   "tortilla",
+   "cheese"
+  ],
+  "optional": [
+   "tinned black bean",
+   "pepper",
+   "spring onion",
+   "chicken thigh",
+   "coriander",
+   "avocado"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "leftovers",
+   "kids",
+   "no-oven",
+   "cheap"
+  ],
+  "uses_up": [
+   "cheese",
+   "pepper",
+   "spring onion",
+   "coriander"
+  ]
+ },
+ {
+  "name": "Huevos rancheros",
+  "cuisine": "Mexican",
+  "minutes": 25,
+  "difficulty": "easy",
+  "core": [
+   "egg",
+   "tortilla",
+   "tinned tomato"
+  ],
+  "optional": [
+   "tinned black bean",
+   "avocado",
+   "coriander",
+   "chilli",
+   "cheese"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "cheap",
+   "no-oven"
+  ],
+  "uses_up": [
+   "egg",
+   "avocado",
+   "coriander"
+  ]
+ },
+ {
+  "name": "Chilli con carne",
+  "cuisine": "Mexican",
+  "minutes": 75,
+  "difficulty": "easy",
+  "core": [
+   "minced beef",
+   "tinned tomato",
+   "tinned kidney bean",
+   "onion"
+  ],
+  "optional": [
+   "pepper",
+   "rice",
+   "sour cream",
+   "cheese",
+   "coriander"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin",
+   "chilli powder",
+   "oregano"
+  ],
+  "tags": [
+   "batch",
+   "kids",
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "pepper",
+   "minced beef"
+  ]
+ },
+ {
+  "name": "Guacamole",
+  "cuisine": "Mexican",
+  "minutes": 10,
+  "difficulty": "easy",
+  "core": [
+   "avocado",
+   "lime"
+  ],
+  "optional": [
+   "tomato",
+   "red onion",
+   "coriander",
+   "chilli",
+   "tortilla chip"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "quick",
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "avocado",
+   "lime",
+   "coriander"
+  ]
+ },
+ {
+  "name": "Jollof rice",
+  "cuisine": "West African",
+  "minutes": 60,
+  "difficulty": "medium",
+  "core": [
+   "rice",
+   "tinned tomato",
+   "pepper",
+   "onion"
+  ],
+  "optional": [
+   "scotch bonnet",
+   "chicken thigh",
+   "tomato puree",
+   "thyme"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "curry powder"
+  ],
+  "tags": [
+   "batch",
+   "gluten-free",
+   "one-pan",
+   "no-oven"
+  ],
+  "uses_up": [
+   "pepper"
+  ]
+ },
+ {
+  "name": "Groundnut stew",
+  "cuisine": "West African",
+  "minutes": 60,
+  "difficulty": "medium",
+  "core": [
+   "peanut butter",
+   "tinned tomato",
+   "sweet potato",
+   "chicken thigh"
+  ],
+  "optional": [
+   "spinach",
+   "scotch bonnet",
+   "ginger",
+   "rice"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock"
+  ],
+  "tags": [
+   "batch",
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "sweet potato",
+   "spinach"
+  ]
+ },
+ {
+  "name": "Misir wot",
+  "cuisine": "Ethiopian",
+  "minutes": 50,
+  "difficulty": "easy",
+  "core": [
+   "lentil",
+   "berbere",
+   "onion",
+   "tomato"
+  ],
+  "optional": [
+   "butter",
+   "injera"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "ginger"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "cheap",
+   "batch",
+   "no-oven"
+  ],
+  "uses_up": [
+   "tomato"
+  ]
+ },
+ {
+  "name": "Rice and peas",
+  "cuisine": "Caribbean",
+  "minutes": 50,
+  "difficulty": "easy",
+  "core": [
+   "rice",
+   "coconut milk",
+   "tinned kidney bean"
+  ],
+  "optional": [
+   "spring onion",
+   "thyme",
+   "scotch bonnet",
+   "allspice"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "cheap",
+   "batch",
+   "no-oven"
+  ],
+  "uses_up": [
+   "coconut milk",
+   "spring onion"
+  ]
+ },
+ {
+  "name": "Jerk chicken",
+  "cuisine": "Caribbean",
+  "minutes": 60,
+  "difficulty": "medium",
+  "core": [
+   "chicken thigh",
+   "scotch bonnet",
+   "spring onion",
+   "allspice"
+  ],
+  "optional": [
+   "lime",
+   "thyme",
+   "ginger",
+   "rice"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "soy",
+   "sugar"
+  ],
+  "tags": [
+   "gluten-free"
+  ],
+  "uses_up": [
+   "spring onion",
+   "lime"
+  ]
+ },
+ {
+  "name": "Shepherd's pie",
+  "cuisine": "British",
+  "minutes": 75,
+  "difficulty": "easy",
+  "core": [
+   "minced lamb",
+   "potato",
+   "carrot",
+   "onion"
+  ],
+  "optional": [
+   "pea",
+   "butter",
+   "milk",
+   "cheese"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "worcestershire sauce",
+   "flour"
+  ],
+  "tags": [
+   "batch",
+   "kids",
+   "leftovers"
+  ],
+  "uses_up": [
+   "potato",
+   "carrot",
+   "minced lamb"
+  ]
+ },
+ {
+  "name": "Cottage pie",
+  "cuisine": "British",
+  "minutes": 75,
+  "difficulty": "easy",
+  "core": [
+   "minced beef",
+   "potato",
+   "carrot",
+   "onion"
+  ],
+  "optional": [
+   "pea",
+   "butter",
+   "milk",
+   "cheese"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "worcestershire sauce",
+   "flour"
+  ],
+  "tags": [
+   "batch",
+   "kids",
+   "leftovers"
+  ],
+  "uses_up": [
+   "potato",
+   "carrot",
+   "minced beef"
+  ]
+ },
+ {
+  "name": "Fish pie",
+  "cuisine": "British",
+  "minutes": 75,
+  "difficulty": "medium",
+  "core": [
+   "white fish",
+   "potato",
+   "milk",
+   "butter"
+  ],
+  "optional": [
+   "prawn",
+   "egg",
+   "spinach",
+   "cheese",
+   "parsley",
+   "smoked haddock"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "flour"
+  ],
+  "tags": [
+   "kids",
+   "batch"
+  ],
+  "uses_up": [
+   "white fish",
+   "potato",
+   "spinach",
+   "milk"
+  ]
+ },
+ {
+  "name": "Toad in the hole",
+  "cuisine": "British",
+  "minutes": 50,
+  "difficulty": "easy",
+  "core": [
+   "sausage",
+   "flour",
+   "egg",
+   "milk"
+  ],
+  "optional": [
+   "onion"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "mustard"
+  ],
+  "tags": [
+   "kids",
+   "cheap"
+  ],
+  "uses_up": [
+   "sausage",
+   "egg",
+   "milk"
+  ]
+ },
+ {
+  "name": "Bubble and squeak",
+  "cuisine": "British",
+  "minutes": 25,
+  "difficulty": "easy",
+  "core": [
+   "potato",
+   "cabbage"
+  ],
+  "optional": [
+   "egg",
+   "bacon",
+   "sprout",
+   "leek"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "butter"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "leftovers",
+   "cheap",
+   "gluten-free",
+   "no-oven"
+  ],
+  "uses_up": [
+   "potato",
+   "cabbage",
+   "sprout",
+   "leek"
+  ]
+ },
+ {
+  "name": "Full English breakfast",
+  "cuisine": "British",
+  "minutes": 25,
+  "difficulty": "easy",
+  "core": [
+   "egg",
+   "sausage",
+   "bacon"
+  ],
+  "optional": [
+   "tomato",
+   "mushroom",
+   "tinned bean",
+   "bread",
+   "black pudding"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "quick",
+   "no-oven"
+  ],
+  "uses_up": [
+   "egg",
+   "tomato",
+   "mushroom"
+  ]
+ },
+ {
+  "name": "Cheese and onion toastie",
+  "cuisine": "British",
+  "minutes": 10,
+  "difficulty": "easy",
+  "core": [
+   "bread",
+   "cheese",
+   "onion"
+  ],
+  "optional": [
+   "butter",
+   "ham",
+   "tomato"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "mustard"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "cheap",
+   "kids",
+   "no-oven"
+  ],
+  "uses_up": [
+   "bread",
+   "cheese"
+  ]
+ },
+ {
+  "name": "Bangers and mash",
+  "cuisine": "British",
+  "minutes": 35,
+  "difficulty": "easy",
+  "core": [
+   "sausage",
+   "potato",
+   "onion"
+  ],
+  "optional": [
+   "butter",
+   "milk",
+   "pea"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "flour"
+  ],
+  "tags": [
+   "kids",
+   "cheap",
+   "no-oven"
+  ],
+  "uses_up": [
+   "sausage",
+   "potato"
+  ]
+ },
+ {
+  "name": "Cauliflower cheese",
+  "cuisine": "British",
+  "minutes": 45,
+  "difficulty": "easy",
+  "core": [
+   "cauliflower",
+   "cheese",
+   "milk",
+   "flour",
+   "butter"
+  ],
+  "optional": [
+   "mustard",
+   "breadcrumb"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "cheap"
+  ],
+  "uses_up": [
+   "cauliflower",
+   "cheese",
+   "milk"
+  ]
+ },
+ {
+  "name": "Roast chicken with vegetables",
+  "cuisine": "British",
+  "minutes": 90,
+  "difficulty": "medium",
+  "core": [
+   "whole chicken",
+   "potato",
+   "carrot"
+  ],
+  "optional": [
+   "lemon",
+   "thyme",
+   "onion",
+   "parsnip"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "butter"
+  ],
+  "tags": [
+   "one-pan",
+   "gluten-free",
+   "batch"
+  ],
+  "uses_up": [
+   "carrot",
+   "potato",
+   "parsnip",
+   "lemon"
+  ]
+ },
+ {
+  "name": "Irish stew",
+  "cuisine": "Irish",
+  "minutes": 150,
+  "difficulty": "easy",
+  "core": [
+   "lamb",
+   "potato",
+   "carrot",
+   "onion"
+  ],
+  "optional": [
+   "leek",
+   "thyme",
+   "parsley"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock"
+  ],
+  "tags": [
+   "batch",
+   "gluten-free",
+   "one-pan"
+  ],
+  "uses_up": [
+   "potato",
+   "carrot",
+   "leek"
+  ]
+ },
+ {
+  "name": "Leftover roast meat pie",
+  "cuisine": "British",
+  "minutes": 60,
+  "difficulty": "medium",
+  "core": [
+   "roast meat",
+   "puff pastry",
+   "onion"
+  ],
+  "optional": [
+   "carrot",
+   "pea",
+   "mushroom",
+   "leek"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "flour",
+   "butter"
+  ],
+  "tags": [
+   "leftovers",
+   "batch"
+  ],
+  "uses_up": [
+   "roast meat",
+   "carrot",
+   "mushroom",
+   "leek"
+  ]
+ },
+ {
+  "name": "Pierogi ruskie",
+  "cuisine": "Polish",
+  "minutes": 90,
+  "difficulty": "involved",
+  "core": [
+   "flour",
+   "egg",
+   "potato",
+   "cheese",
+   "onion"
+  ],
+  "optional": [
+   "butter",
+   "sour cream",
+   "bacon"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "batch",
+   "cheap"
+  ],
+  "uses_up": [
+   "potato"
+  ]
+ },
+ {
+  "name": "Bigos",
+  "cuisine": "Polish",
+  "minutes": 150,
+  "difficulty": "medium",
+  "core": [
+   "sauerkraut",
+   "cabbage",
+   "sausage",
+   "mushroom"
+  ],
+  "optional": [
+   "pork",
+   "bacon",
+   "prune",
+   "red wine"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "bay leaf",
+   "caraway"
+  ],
+  "tags": [
+   "batch",
+   "gluten-free",
+   "leftovers"
+  ],
+  "uses_up": [
+   "cabbage",
+   "mushroom",
+   "sausage"
+  ]
+ },
+ {
+  "name": "Zurek",
+  "cuisine": "Polish",
+  "minutes": 60,
+  "difficulty": "involved",
+  "core": [
+   "sour rye starter",
+   "sausage",
+   "potato",
+   "egg"
+  ],
+  "optional": [
+   "bacon",
+   "sour cream",
+   "marjoram",
+   "horseradish"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock"
+  ],
+  "tags": [
+   "batch"
+  ],
+  "uses_up": [
+   "egg",
+   "potato"
+  ]
+ },
+ {
+  "name": "Potato pancakes (placki)",
+  "cuisine": "Polish",
+  "minutes": 30,
+  "difficulty": "easy",
+  "core": [
+   "potato",
+   "egg",
+   "flour",
+   "onion"
+  ],
+  "optional": [
+   "sour cream",
+   "apple sauce"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "cheap",
+   "no-oven"
+  ],
+  "uses_up": [
+   "potato",
+   "egg"
+  ]
+ },
+ {
+  "name": "Goulash",
+  "cuisine": "Hungarian",
+  "minutes": 150,
+  "difficulty": "easy",
+  "core": [
+   "stewing beef",
+   "onion",
+   "pepper",
+   "paprika"
+  ],
+  "optional": [
+   "tomato",
+   "potato",
+   "sour cream",
+   "caraway"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "flour"
+  ],
+  "tags": [
+   "batch",
+   "gluten-free",
+   "one-pan",
+   "no-oven"
+  ],
+  "uses_up": [
+   "pepper",
+   "onion"
+  ]
+ },
+ {
+  "name": "Mac and cheese",
+  "cuisine": "American",
+  "minutes": 35,
+  "difficulty": "easy",
+  "core": [
+   "pasta",
+   "cheese",
+   "milk",
+   "butter",
+   "flour"
+  ],
+  "optional": [
+   "breadcrumb",
+   "bacon",
+   "mustard"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "mustard"
+  ],
+  "tags": [
+   "vegetarian",
+   "kids",
+   "cheap"
+  ],
+  "uses_up": [
+   "cheese",
+   "milk"
+  ]
+ },
+ {
+  "name": "Burgers",
+  "cuisine": "American",
+  "minutes": 25,
+  "difficulty": "easy",
+  "core": [
+   "minced beef",
+   "bun"
+  ],
+  "optional": [
+   "cheese",
+   "lettuce",
+   "tomato",
+   "onion",
+   "pickle"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "mustard"
+  ],
+  "tags": [
+   "quick",
+   "kids",
+   "no-oven"
+  ],
+  "uses_up": [
+   "lettuce",
+   "tomato",
+   "minced beef"
+  ]
+ },
+ {
+  "name": "Pancakes",
+  "cuisine": "American",
+  "minutes": 20,
+  "difficulty": "easy",
+  "core": [
+   "flour",
+   "egg",
+   "milk"
+  ],
+  "optional": [
+   "butter",
+   "banana",
+   "blueberry",
+   "maple syrup"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "sugar",
+   "baking powder"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "kids",
+   "cheap",
+   "no-oven"
+  ],
+  "uses_up": [
+   "egg",
+   "milk",
+   "banana",
+   "blueberry"
+  ]
+ },
+ {
+  "name": "Chicken noodle soup",
+  "cuisine": "American",
+  "minutes": 60,
+  "difficulty": "easy",
+  "core": [
+   "chicken thigh",
+   "egg noodle",
+   "carrot",
+   "celery"
+  ],
+  "optional": [
+   "parsley",
+   "dill",
+   "leek"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock"
+  ],
+  "tags": [
+   "batch",
+   "leftovers",
+   "kids",
+   "no-oven"
+  ],
+  "uses_up": [
+   "carrot",
+   "celery",
+   "leek",
+   "parsley"
+  ]
+ },
+ {
+  "name": "Cobb salad",
+  "cuisine": "American",
+  "minutes": 25,
+  "difficulty": "easy",
+  "core": [
+   "lettuce",
+   "egg",
+   "chicken breast",
+   "bacon",
+   "avocado"
+  ],
+  "optional": [
+   "blue cheese",
+   "tomato",
+   "chive"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "vinegar",
+   "mustard"
+  ],
+  "tags": [
+   "gluten-free",
+   "no-oven",
+   "leftovers"
+  ],
+  "uses_up": [
+   "lettuce",
+   "egg",
+   "avocado",
+   "tomato"
+  ]
+ },
+ {
+  "name": "Banana bread",
+  "cuisine": "American",
+  "minutes": 70,
+  "difficulty": "easy",
+  "core": [
+   "banana",
+   "flour",
+   "egg",
+   "butter",
+   "sugar"
+  ],
+  "optional": [
+   "walnut",
+   "chocolate chip",
+   "cinnamon"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "baking powder"
+  ],
+  "tags": [
+   "vegetarian",
+   "kids",
+   "leftovers",
+   "cheap"
+  ],
+  "uses_up": [
+   "banana"
+  ]
+ },
+ {
+  "name": "Baked potatoes with toppings",
+  "cuisine": "American",
+  "minutes": 75,
+  "difficulty": "easy",
+  "core": [
+   "potato"
+  ],
+  "optional": [
+   "cheese",
+   "tinned bean",
+   "sour cream",
+   "chive",
+   "bacon",
+   "tinned tuna",
+   "butter"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "cheap",
+   "kids",
+   "gluten-free",
+   "leftovers"
+  ],
+  "uses_up": [
+   "potato",
+   "cheese"
+  ]
+ },
+ {
+  "name": "Vegetable soup",
+  "cuisine": "General",
+  "minutes": 40,
+  "difficulty": "easy",
+  "core": [
+   "carrot",
+   "onion",
+   "celery",
+   "potato"
+  ],
+  "optional": [
+   "leek",
+   "tomato",
+   "courgette",
+   "cabbage",
+   "lentil",
+   "parsley"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "cheap",
+   "batch",
+   "leftovers",
+   "no-oven"
+  ],
+  "uses_up": [
+   "carrot",
+   "celery",
+   "potato",
+   "leek",
+   "courgette",
+   "cabbage"
+  ]
+ },
+ {
+  "name": "Tomato soup",
+  "cuisine": "General",
+  "minutes": 35,
+  "difficulty": "easy",
+  "core": [
+   "tinned tomato",
+   "onion"
+  ],
+  "optional": [
+   "carrot",
+   "celery",
+   "cream",
+   "basil",
+   "bread"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "sugar"
+  ],
+  "tags": [
+   "vegetarian",
+   "cheap",
+   "batch",
+   "gluten-free",
+   "no-oven",
+   "kids"
+  ],
+  "uses_up": [
+   "carrot",
+   "celery",
+   "cream",
+   "basil"
+  ]
+ },
+ {
+  "name": "Stir-fry with whatever vegetables",
+  "cuisine": "General",
+  "minutes": 20,
+  "difficulty": "easy",
+  "core": [
+   "mixed vegetable",
+   "rice"
+  ],
+  "optional": [
+   "pepper",
+   "broccoli",
+   "carrot",
+   "mushroom",
+   "cabbage",
+   "tofu",
+   "chicken thigh",
+   "egg noodle",
+   "ginger"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "soy",
+   "sesame oil",
+   "cornflour"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "quick",
+   "one-pan",
+   "leftovers",
+   "no-oven",
+   "cheap"
+  ],
+  "uses_up": [
+   "pepper",
+   "broccoli",
+   "carrot",
+   "mushroom",
+   "cabbage"
+  ]
+ },
+ {
+  "name": "Roasted vegetable traybake",
+  "cuisine": "General",
+  "minutes": 45,
+  "difficulty": "easy",
+  "core": [
+   "mixed vegetable"
+  ],
+  "optional": [
+   "pepper",
+   "courgette",
+   "aubergine",
+   "red onion",
+   "sweet potato",
+   "feta",
+   "halloumi",
+   "sausage",
+   "chickpea"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "herb"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "one-pan",
+   "leftovers",
+   "cheap"
+  ],
+  "uses_up": [
+   "pepper",
+   "courgette",
+   "aubergine",
+   "sweet potato",
+   "feta",
+   "halloumi"
+  ]
+ },
+ {
+  "name": "Vegetable curry",
+  "cuisine": "General",
+  "minutes": 40,
+  "difficulty": "easy",
+  "core": [
+   "mixed vegetable",
+   "coconut milk",
+   "onion"
+  ],
+  "optional": [
+   "potato",
+   "cauliflower",
+   "spinach",
+   "tinned chickpea",
+   "tomato",
+   "rice",
+   "coriander"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "curry powder",
+   "cumin",
+   "turmeric"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "batch",
+   "one-pan",
+   "leftovers",
+   "no-oven",
+   "cheap"
+  ],
+  "uses_up": [
+   "cauliflower",
+   "spinach",
+   "potato",
+   "coconut milk",
+   "coriander"
+  ]
+ },
+ {
+  "name": "Lentil bolognese",
+  "cuisine": "General",
+  "minutes": 45,
+  "difficulty": "easy",
+  "core": [
+   "lentil",
+   "tinned tomato",
+   "carrot",
+   "celery",
+   "pasta"
+  ],
+  "optional": [
+   "mushroom",
+   "red wine",
+   "parmesan"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "oregano"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "cheap",
+   "batch",
+   "no-oven"
+  ],
+  "uses_up": [
+   "carrot",
+   "celery",
+   "mushroom"
+  ]
+ },
+ {
+  "name": "Spaghetti bolognese",
+  "cuisine": "Italian",
+  "minutes": 75,
+  "difficulty": "easy",
+  "core": [
+   "minced beef",
+   "tinned tomato",
+   "carrot",
+   "celery",
+   "pasta"
+  ],
+  "optional": [
+   "red wine",
+   "milk",
+   "parmesan",
+   "bacon"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "oregano"
+  ],
+  "tags": [
+   "batch",
+   "kids",
+   "no-oven"
+  ],
+  "uses_up": [
+   "carrot",
+   "celery",
+   "minced beef"
+  ]
+ },
+ {
+  "name": "Sausage and bean casserole",
+  "cuisine": "General",
+  "minutes": 45,
+  "difficulty": "easy",
+  "core": [
+   "sausage",
+   "tinned tomato",
+   "tinned bean",
+   "onion"
+  ],
+  "optional": [
+   "pepper",
+   "carrot",
+   "thyme",
+   "bread"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "smoked paprika",
+   "stock"
+  ],
+  "tags": [
+   "batch",
+   "one-pan",
+   "kids",
+   "gluten-free",
+   "no-oven",
+   "cheap"
+  ],
+  "uses_up": [
+   "sausage",
+   "pepper",
+   "carrot"
+  ]
+ },
+ {
+  "name": "Fishcakes",
+  "cuisine": "General",
+  "minutes": 45,
+  "difficulty": "medium",
+  "core": [
+   "white fish",
+   "potato",
+   "egg"
+  ],
+  "optional": [
+   "parsley",
+   "breadcrumb",
+   "lemon",
+   "spring onion",
+   "tinned tuna",
+   "salmon"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "flour",
+   "mustard"
+  ],
+  "tags": [
+   "leftovers",
+   "kids"
+  ],
+  "uses_up": [
+   "potato",
+   "white fish",
+   "salmon",
+   "parsley"
+  ]
+ },
+ {
+  "name": "Salmon with lentils",
+  "cuisine": "General",
+  "minutes": 35,
+  "difficulty": "easy",
+  "core": [
+   "salmon",
+   "lentil"
+  ],
+  "optional": [
+   "spinach",
+   "lemon",
+   "mustard",
+   "dill",
+   "carrot"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "vinegar"
+  ],
+  "tags": [
+   "gluten-free",
+   "quick",
+   "no-oven"
+  ],
+  "uses_up": [
+   "salmon",
+   "spinach",
+   "dill",
+   "lemon"
+  ]
+ },
+ {
+  "name": "Halloumi and pepper wraps",
+  "cuisine": "General",
+  "minutes": 20,
+  "difficulty": "easy",
+  "core": [
+   "halloumi",
+   "pepper",
+   "tortilla"
+  ],
+  "optional": [
+   "hummus",
+   "lettuce",
+   "cucumber",
+   "lemon",
+   "coriander"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "no-oven"
+  ],
+  "uses_up": [
+   "halloumi",
+   "pepper",
+   "lettuce",
+   "cucumber"
+  ]
+ },
+ {
+  "name": "Chickpea and spinach stew",
+  "cuisine": "General",
+  "minutes": 30,
+  "difficulty": "easy",
+  "core": [
+   "tinned chickpea",
+   "spinach",
+   "tinned tomato",
+   "onion"
+  ],
+  "optional": [
+   "lemon",
+   "yoghurt",
+   "bread",
+   "coriander"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin",
+   "smoked paprika"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan",
+   "gluten-free",
+   "quick",
+   "one-pan",
+   "cheap",
+   "batch",
+   "no-oven"
+  ],
+  "uses_up": [
+   "spinach",
+   "lemon",
+   "coriander"
+  ]
+ },
+ {
+  "name": "Stuffed peppers",
+  "cuisine": "General",
+  "minutes": 50,
+  "difficulty": "easy",
+  "core": [
+   "pepper",
+   "rice",
+   "tinned tomato"
+  ],
+  "optional": [
+   "minced beef",
+   "feta",
+   "cheese",
+   "herb",
+   "courgette"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cumin"
+  ],
+  "tags": [
+   "vegetarian",
+   "gluten-free",
+   "leftovers"
+  ],
+  "uses_up": [
+   "pepper",
+   "rice",
+   "feta",
+   "courgette"
+  ]
+ },
+ {
+  "name": "Mushroom stroganoff",
+  "cuisine": "General",
+  "minutes": 25,
+  "difficulty": "easy",
+  "core": [
+   "mushroom",
+   "sour cream",
+   "onion"
+  ],
+  "optional": [
+   "rice",
+   "pasta",
+   "parsley",
+   "paprika",
+   "white wine"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "stock",
+   "mustard",
+   "flour"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "no-oven"
+  ],
+  "uses_up": [
+   "mushroom",
+   "sour cream",
+   "parsley"
+  ]
+ },
+ {
+  "name": "Cheese omelette with salad",
+  "cuisine": "General",
+  "minutes": 15,
+  "difficulty": "easy",
+  "core": [
+   "egg",
+   "cheese",
+   "lettuce"
+  ],
+  "optional": [
+   "tomato",
+   "cucumber",
+   "herb"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "vinegar",
+   "mustard"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "gluten-free",
+   "no-oven",
+   "cheap"
+  ],
+  "uses_up": [
+   "egg",
+   "cheese",
+   "lettuce",
+   "tomato",
+   "cucumber"
+  ]
+ },
+ {
+  "name": "French toast",
+  "cuisine": "General",
+  "minutes": 15,
+  "difficulty": "easy",
+  "core": [
+   "bread",
+   "egg",
+   "milk"
+  ],
+  "optional": [
+   "butter",
+   "cinnamon",
+   "banana",
+   "berry"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "sugar"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "kids",
+   "leftovers",
+   "no-oven",
+   "cheap"
+  ],
+  "uses_up": [
+   "bread",
+   "egg",
+   "milk",
+   "banana"
+  ]
+ },
+ {
+  "name": "Bread and butter pudding",
+  "cuisine": "British",
+  "minutes": 60,
+  "difficulty": "easy",
+  "core": [
+   "bread",
+   "egg",
+   "milk",
+   "butter"
+  ],
+  "optional": [
+   "cream",
+   "raisin",
+   "marmalade",
+   "cinnamon"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "sugar"
+  ],
+  "tags": [
+   "vegetarian",
+   "leftovers",
+   "cheap",
+   "kids"
+  ],
+  "uses_up": [
+   "bread",
+   "egg",
+   "milk",
+   "cream"
+  ]
+ },
+ {
+  "name": "Fruit crumble",
+  "cuisine": "British",
+  "minutes": 50,
+  "difficulty": "easy",
+  "core": [
+   "apple",
+   "flour",
+   "butter",
+   "sugar"
+  ],
+  "optional": [
+   "oat",
+   "berry",
+   "rhubarb",
+   "plum",
+   "cinnamon"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "kids",
+   "leftovers",
+   "cheap"
+  ],
+  "uses_up": [
+   "apple",
+   "berry",
+   "rhubarb",
+   "plum"
+  ]
+ },
+ {
+  "name": "Smoothie",
+  "cuisine": "General",
+  "minutes": 5,
+  "difficulty": "easy",
+  "core": [
+   "banana",
+   "milk"
+  ],
+  "optional": [
+   "berry",
+   "yoghurt",
+   "oat",
+   "spinach",
+   "peanut butter",
+   "honey"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "quick",
+   "kids",
+   "leftovers",
+   "no-oven",
+   "gluten-free"
+  ],
+  "uses_up": [
+   "banana",
+   "berry",
+   "yoghurt",
+   "spinach",
+   "milk"
+  ]
+ },
+ {
+  "name": "Meringues",
+  "cuisine": "French",
+  "minutes": 120,
+  "difficulty": "medium",
+  "core": [
+   "egg white",
+   "sugar"
+  ],
+  "optional": [
+   "cream",
+   "berry"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion"
+  ],
+  "tags": [
+   "vegetarian",
+   "gluten-free",
+   "leftovers"
+  ],
+  "uses_up": [
+   "egg white",
+   "berry"
+  ]
+ },
+ {
+  "name": "Custard",
+  "cuisine": "British",
+  "minutes": 20,
+  "difficulty": "medium",
+  "core": [
+   "egg yolk",
+   "milk",
+   "sugar"
+  ],
+  "optional": [
+   "cream",
+   "vanilla"
+  ],
+  "pantry": [
+   "oil",
+   "salt",
+   "black pepper",
+   "garlic",
+   "onion",
+   "cornflour"
+  ],
+  "tags": [
+   "vegetarian",
+   "gluten-free",
+   "leftovers",
+   "no-oven"
+  ],
+  "uses_up": [
+   "egg yolk",
+   "milk",
+   "cream"
+  ]
+ }
+]
