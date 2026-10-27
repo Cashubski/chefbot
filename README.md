@@ -1,40 +1,66 @@
-# ChefBot editable source
+# ChefBot
 
-Complete source exported from the installed plugin, version 0.15.3. Open this folder in VS Code or Cursor. No release has been published by this export.
+ChefBot is a cooking assistant for ChatGPT, published by [NeuralTake](https://neuraltake.com) and used in more than 25,000 conversations as a GPT, rated 4.7 from 100+ ratings. This repository is the plugin that replaces the GPT: a skills-only ChatGPT plugin in the [Agent Plugins](https://agent-plugins.org) format, with deterministic scripts for the parts of cooking that should not be left to a language model's arithmetic.
 
-## What to edit
+Public site, support, privacy policy and terms: <https://chefbot.neuraltake.com>.
 
-- plugin/plugin.json: listing, website, icons and canonical package identity.
-- plugin/.codex-plugin/plugin.json: compatibility manifest; synchronize repeated metadata.
-- plugin/skills/instructions/SKILL.md: cooking instructions and workflows.
-- plugin/skills/instructions/agents/openai.yaml: skill presentation.
-- plugin/assets/chefbot-icon.png: original robot-chef image, currently referenced by both icon fields.
+## Layout
 
-Keep the internal package name and plugin identity. Change displayName for the visible name. Preserve the three existing defaultPrompt values during routine updates. Increment the version in both manifests before a new release; the next patch is 0.15.4.
+```
+plugin/
+  plugin.json                      Agent Plugins manifest (identity, listing, policy URLs)
+  .codex-plugin/plugin.json        Codex compatibility manifest (kept in sync)
+  assets/chefbot-icon.png          512 × 512 icon
+  skills/<skill>/SKILL.md          one skill per directory, Agent Skills format
+  skills/<skill>/references/       lookup tables the skill loads on demand
+  skills/<skill>/scripts/          stdlib-only Python the model can run where a Python tool exists
+  skills/<skill>/assets/           templates
+tests/                             unit tests for every script
+package.py                         validation + ZIP build
+CHANGELOG.md
+```
 
-## Package
+## Skills
 
-Run `python3 package.py` from this directory (Python 3.10+). This produces chefbot-plugin.zip. Upload it as an update to the existing ChefBot plugin, using its freshly fetched current release as the update guard. Do not create a duplicate plugin.
+| Skill | Trigger | Deterministic help |
+| --- | --- | --- |
+| cooking-assistant | any cooking question; sets the house style | |
+| fridge-to-meal | ingredients or a photo → one recipe | |
+| recipe-scaling | change servings, convert units | `scale_recipe.py`: rounding rules, sub-linear seasoning, density-based cup conversion, pan and time notes |
+| meal-planning | several days, batch cooking, shopping list | `shopping_list.py`: merges quantities, converts spoons and cups, groups by aisle |
+| cook-along | step-by-step mode, "what's next", serving several dishes together | `serving_schedule.py`: backwards timeline, oven-on time, hands-on clash warnings |
+| dietary-adaptation | allergies, intolerances, diets, nutrition goals | `references/allergens.md`: UK/EU, US lists, hidden sources, swap behaviour |
+| substitutions | missing ingredient | `references/substitutions.md`: ratios and effects |
+| drink-pairings | what to drink, alcohol-free included | `references/pairing-guide.md` |
+| food-safety | temperatures, storage, reheating, "is it safe" | `references/temperatures-and-storage.md` (FSA and USDA figures) |
+| recipe-cards | print, save, export | `assets/recipe-card.md` template |
+| cooking-techniques | learn a method, explore a cuisine | `references/techniques.md` |
 
-## Current limits
+Scripts are standard-library Python 3.10+. Every skill also describes the manual procedure, so the behaviour is the same where no Python tool is available.
 
-This is a skills-only plugin. It has no backend, accounts, database, external API or custom widget. Scripts bundled with skills need an execution-capable host; they do not automatically become remote tools.
+## Build and release
 
-The icon is a valid 512 x 512 PNG with correct package references. Its absence in the ChatGPT interface is unresolved. Check the imported icon in the publishing dashboard. A frontend is not required to display the listing icon.
+```bash
+python3 package.py --check     # validate manifests, skills, scripts
+python3 package.py             # validate, run tests, write dist/chefbot-plugin-<version>.zip
+```
 
-## Policies
+Validation covers the public submission limits (display name and short description ≤ 30 characters, long description ≤ 4,000, up to three unique default prompts ≤ 128 characters, https policy URLs, square icon 48 to 4,096 px, brand colour contrast) and the Agent Skills rules (directory name equals the frontmatter name, description ≤ 1,024 characters, SKILL.md under 500 lines, referenced files exist, scripts compile).
 
-The website is https://neuraltake.com. Add supportURL, privacyPolicyURL and termsOfServiceURL inside extensions.com.openai.interface and the compatibility interface only once those public pages exist. Confirm actual data collection, processors, retention, deletion, support contact and publisher before drafting policies. Do not copy another app's promises.
+Release steps:
 
-## Recommended development order
+1. Bump `version` in both manifests and add a CHANGELOG entry.
+2. `python3 package.py`.
+3. In the ChatGPT plugins dashboard, open the existing ChefBot plugin and upload the ZIP as an update against its current release. Never create a second plugin: the `name` field is the plugin's identity.
+4. Submit for review; a skills-only plugin needs no MCP review cases or demo recording. Metadata, asset or skill changes always need a new ZIP and review.
 
-1. Add a deterministic recipe-scaling script with explicit units and decimal quantities.
-2. Add distinct workflows for weekly meal planning, consolidated shopping lists and serving-time schedules.
-3. Add printable recipe cards using tools available in the host.
-4. Build an authenticated backend only when adding saved recipes or pantry tracking. Start with save_recipe, list_recipes, get_recipe and delete_recipe. Enforce ownership per user, validate inputs and implement data export/deletion. Keep credentials server-side.
+## Constraints to remember
 
-Skills are instructions plus optional scripts, references and assets. Persistent accounts and storage require a service. Only advertise capabilities after implementation and testing.
+- Skills-only plugins cannot later add an MCP server. Saved recipes, accounts or pantry tracking would need a new plugin with a backend.
+- Keep the internal `name`. Change `displayName` for the visible name.
+- Preserve the three default prompts unless there is a reason to change them; they are the conversation starters users know.
+- Do not add promotional text to responses. The listing links to the website; the skills do not advertise.
 
-## Brief for your coding assistant
+## Licence
 
-Inspect this source and preserve its identity. Implement deterministic recipe scaling first, with meaningful edge-case tests. Do not invent policy URLs, claim persistent storage, add a backend or publish beyond the requested scope. Investigate icon ingestion/display separately from cooking functionality.
+Proprietary. © NeuralTake. The skill texts and scripts may not be redistributed without permission.

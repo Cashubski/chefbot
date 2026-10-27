@@ -1,37 +1,46 @@
 {
+  "name": "gpt-7c0dc5206c6e2311dd21ca95d4dc2fb6",
+  "version": "0.16.0",
+  "description": "Turn the ingredients you have into meals worth making. ChefBot works from a list or a photo of your fridge, writes one practical recipe with exact quantities, oven temperatures for fan and conventional ovens, timings and the signs that tell you something is done, then walks you through it step by step. It scales recipes and converts units deterministically, plans a week of meals that reuse ingredients and merges them into one shopping list, adapts dishes for allergies and diets with the label checks that matter, suggests substitutions when something is missing, pairs wine, beer and alcohol-free drinks, answers food-safety questions with the actual temperatures and storage times, writes printable recipe cards, and teaches techniques and cuisines. Made by NeuralTake, London. ChefBot has no accounts, saves nothing and runs entirely inside your ChatGPT conversation.",
+  "author": {
+    "name": "Michal Kaszubski",
+    "url": "https://neuraltake.com"
+  },
+  "homepage": "https://chefbot.neuraltake.com",
+  "keywords": [
+    "cooking",
+    "recipes",
+    "meal planning",
+    "shopping list",
+    "ingredients",
+    "fridge",
+    "substitutions",
+    "allergies",
+    "food safety",
+    "wine pairings",
+    "food"
+  ],
   "interface": {
     "capabilities": [
       "skills"
     ],
     "category": "Other",
     "composerIcon": "./assets/chefbot-icon.png",
+    "logo": "./assets/chefbot-icon.png",
+    "brandColor": "#0F7C8A",
     "defaultPrompt": [
       "Feeling adventurous in the kitchen today? Let's explore a recipe from a cuisine you've never tried before.",
       "Bored? Take a photo of your fridge and we'll make something!",
       "Have specific dietary needs? Share them with me, and I'll tailor a delicious and safe recipe just for you."
     ],
-    "developerName": "Michal Kaszubski",
+    "developerName": "NeuralTake",
     "displayName": "ChefBot",
-    "logo": "./assets/chefbot-icon.png",
-    "longDescription": "Turn the ingredients you have into meals worth making. ChefBot helps you plan recipes, adapt portions and dietary preferences, find substitutions, and cook with clear step-by-step guidance. Explore new cuisines, learn techniques, and get wine or alcohol-free pairings.",
+    "longDescription": "Turn the ingredients you have into meals worth making. ChefBot works from a list or a photo of your fridge, writes one practical recipe with exact quantities, oven temperatures for fan and conventional ovens, timings and the signs that tell you something is done, then walks you through it step by step. It scales recipes and converts units deterministically, plans a week of meals that reuse ingredients and merges them into one shopping list, adapts dishes for allergies and diets with the label checks that matter, suggests substitutions when something is missing, pairs wine, beer and alcohol-free drinks, answers food-safety questions with the actual temperatures and storage times, writes printable recipe cards, and teaches techniques and cuisines. Made by NeuralTake, London. ChefBot has no accounts, saves nothing and runs entirely inside your ChatGPT conversation.",
     "shortDescription": "Recipes, pairings & cooking",
-    "websiteURL": "https://neuraltake.com"
+    "websiteURL": "https://chefbot.neuraltake.com",
+    "supportURL": "https://chefbot.neuraltake.com/support",
+    "privacyPolicyURL": "https://chefbot.neuraltake.com/privacy",
+    "termsOfServiceURL": "https://chefbot.neuraltake.com/terms"
   },
-  "name": "gpt-7c0dc5206c6e2311dd21ca95d4dc2fb6",
-  "version": "0.15.3",
-  "description": "Turn the ingredients you have into meals worth making. ChefBot helps you plan recipes, adapt portions and dietary preferences, find substitutions, and cook with clear step-by-step guidance. Explore new cuisines, learn techniques, and get wine or alcohol-free pairings.",
-  "author": {
-    "name": "Michal Kaszubski",
-    "url": "https://neuraltake.com"
-  },
-  "keywords": [
-    "cooking",
-    "recipes",
-    "meal planning",
-    "ingredients",
-    "wine pairings",
-    "food"
-  ],
-  "homepage": "https://neuraltake.com",
   "skills": "./skills"
 }
