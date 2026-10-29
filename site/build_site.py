@@ -98,7 +98,7 @@ def head(title: str, desc: str, path: str = "/") -> str:
 
 FOOT = f'''<footer>
   <div>© 2026 NeuralTake, London. ChefBot {VERSION}. ChefBot runs inside ChatGPT; ChatGPT is a product of OpenAI. ChefBot is not made or endorsed by OpenAI.</div>
-  <div><a href="/support">Support</a><a href="/privacy">Privacy</a><a href="/terms">Terms</a><a href="/changelog">Changelog</a><a href="https://neuraltake.com">NeuralTake</a></div>
+  <div><a href="/support">Support</a><a href="/privacy">Privacy</a><a href="/terms">Terms</a><a href="/changelog">Changelog</a><a href="https://github.com/Cashubski/chefbot">Source</a><a href="https://neuraltake.com">NeuralTake</a></div>
 </footer>
 </div>
 </body>
