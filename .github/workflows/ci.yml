@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    name: Validate, test and package (Python ${{ matrix.python }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ["3.10", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Validate manifests and skills, run tests, build the ZIP
+        run: python3 package.py
+      - name: Build the website
+        run: python3 site/build_site.py --out site-out
+      - name: Upload plugin ZIP
+        if: matrix.python == '3.13'
+        uses: actions/upload-artifact@v4
+        with:
+          name: chefbot-plugin
+          path: dist/*.zip
+          if-no-files-found: error

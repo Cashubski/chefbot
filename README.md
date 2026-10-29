@@ -1,8 +1,11 @@
 # ChefBot
 
+[![CI](https://github.com/Cashubski/chefbot/actions/workflows/ci.yml/badge.svg)](https://github.com/Cashubski/chefbot/actions/workflows/ci.yml)
+[![Open in ChatGPT](https://img.shields.io/badge/ChatGPT-open%20ChefBot-0F7C8A)](https://chatgpt.com/plugins/plugin_65cf8e2b928081919e9c1544d32a79dc)
+
 ChefBot is a cooking assistant for ChatGPT, published by [NeuralTake](https://neuraltake.com) and used in more than 25,000 conversations as a GPT, rated 4.7 from 100+ ratings. This repository is the plugin that replaces the GPT: a skills-only ChatGPT plugin in the [Agent Plugins](https://agent-plugins.org) format, with deterministic scripts for the parts of cooking that should not be left to a language model's arithmetic.
 
-Public site, support, privacy policy and terms: <https://chefbot.neuraltake.com>.
+Public site, support, privacy policy and terms: <https://chefbot.neuraltake.com>. Plugin listing: <https://chatgpt.com/plugins/plugin_65cf8e2b928081919e9c1544d32a79dc>.
 
 ## Layout
 
@@ -15,8 +18,10 @@ plugin/
   skills/<skill>/references/       lookup tables the skill loads on demand
   skills/<skill>/scripts/          stdlib-only Python the model can run where a Python tool exists
   skills/<skill>/assets/           templates
-tests/                             unit tests for every script
+tests/                             unit tests for every script, plus EVALUATION.md (manual activation sheet)
 package.py                         validation + ZIP build
+site/                              generator for chefbot.neuraltake.com (build_site.py, content fragments, assets)
+.github/workflows/ci.yml           validation, tests, ZIP and site build on Python 3.10 and 3.13
 CHANGELOG.md
 ```
 
@@ -61,6 +66,18 @@ Release steps:
 3. In the ChatGPT plugins dashboard, open the existing ChefBot plugin and upload the ZIP as an update against its current release. Never create a second plugin: the `name` field is the plugin's identity.
 4. Submit for review; a skills-only plugin needs no MCP review cases or demo recording. Metadata, asset or skill changes always need a new ZIP and review.
 
+## Website
+
+`site/build_site.py` writes the static site for chefbot.neuraltake.com: the landing page with three worked examples computed by the real scripts, the skill list, FAQ, changelog (from `CHANGELOG.md`), and the support, privacy and terms pages from the fragments in `site/content/`.
+
+```bash
+python3 site/build_site.py --out site-out
+```
+
+## Testing in ChatGPT
+
+`tests/EVALUATION.md` lists 90 prompts, five per skill, covering direct, indirect, incomplete, should-not-fire and edge cases, each with the behaviour expected. Run it after every upload; a skill firing for the wrong prompt is a description fix.
+
 ## Constraints to remember
 
 - Skills-only plugins cannot later add an MCP server. Saved recipes, accounts or pantry tracking would need a new plugin with a backend.
@@ -70,4 +87,4 @@ Release steps:
 
 ## Licence
 
-Proprietary. © NeuralTake. The skill texts and scripts may not be redistributed without permission.
+Code (scripts, tests, `package.py`, the site generator) is MIT. The skill texts, reference tables, dish and nutrition data, manifests, website copy and the ChefBot name and icon are © NeuralTake, all rights reserved. See [LICENSE](LICENSE).
